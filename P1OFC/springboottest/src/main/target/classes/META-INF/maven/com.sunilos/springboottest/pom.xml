@@ -15,13 +15,13 @@
 	<groupId>com.sunilos</groupId>
 	<artifactId>springboottest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projectORS</name>
-	<packaging>jar</packaging>
+	<name>springboottest</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<java.version>11</java.version>
-		<!-- <maven-war-plugin.version>3.2.3</maven-war-plugin.version> -->
+		<java.version>1.8</java.version>
+		<maven-war-plugin.version>3.2.3</maven-war-plugin.version>
 	</properties>
 
 	<dependencies>
@@ -40,7 +40,7 @@
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
 
-		<dependency> 
+		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>8.0.28</version>
@@ -84,7 +84,7 @@
 			<version>1.2.17</version>
 		</dependency>
 
-		<!---->
+         <!-- Vipin Gupta -->
 
 		<!-- JWT dependencies -->
 
@@ -93,30 +93,16 @@
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 
-		<!-- <dependency>
+		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt</artifactId>
 			<version>0.9.1</version>
-		</dependency> -->
+		</dependency>
 		<!-- <dependency> <groupId>org.springframework.security</groupId> <artifactId>spring-security-test</artifactId> 
 			<scope>test</scope> </dependency> -->
 	</dependencies>
 
-	
-	<profiles>
-		<profile>
-			<id>jar</id>
-			<build>
-				<plugins>
-					<plugin>
-						<groupId>org.springframework.boot</groupId>
-						<artifactId>spring-boot-maven-plugin</artifactId>
-					</plugin>
-				</plugins>
-			</build>
-		</profile>
-	</profiles>
-<build>
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -155,4 +141,18 @@
 		</pluginManagement>
 	</build>
 
+	<profiles>
+		<profile>
+			<id>war</id>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-war-plugin</artifactId>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
 </project>
+<!-- Vipin Gupta -->
