@@ -22,6 +22,7 @@ export class BaseListCtl extends BaseCtl {
    */
   ngOnInit() {   
     this.preload();
+   // this.preloadd();
     this.search();
     this.isMasterSel = false ;
   }

@@ -49,6 +49,16 @@ import { AbcComponent } from './abc/abc.component';
 import { AbclistComponent } from './abc/abclist.component';
 
 
+import { PortfolioComponent } from './portfolio/portfolio.component';
+import { PortfoliolistComponent } from './portfolio/portfoliolist.component';
+import { RegionComponent } from './region/region.component';
+import { RegionlistComponent } from './region/regionlist.component';
+import { FollowupComponent } from './followup/followup.component';
+import { FollowuplistComponent } from './followup/followuplist.component';
+import { ClientComponent } from './client/client.component';
+import { ClientlistComponent } from './client/clientlist.component';
+
+
 
 const routes: Routes = [
     {
@@ -345,6 +355,62 @@ const routes: Routes = [
     {
         path: 'abc/:id',
         component: AbcComponent
+      
+    },{
+        path: 'portfolio',
+        component : PortfolioComponent
+      
+    },
+    {
+        path : 'portfoliolist',
+        component : PortfoliolistComponent
+      
+    },
+    {
+        path: 'portfolio/:id',
+        component: PortfolioComponent
+      
+    },{
+        path: 'region',
+        component : RegionComponent
+      
+    },
+    {
+        path : 'regionlist',
+        component : RegionlistComponent
+      
+    },
+    {
+        path: 'region/:id',
+        component: RegionComponent
+      
+    },{
+        path: 'followup',
+        component : FollowupComponent
+      
+    },
+    {
+        path : 'followuplist',
+        component : FollowuplistComponent
+      
+    },
+    {
+        path: 'followup/:id',
+        component: FollowupComponent
+      
+    },{
+        path: 'client',
+        component : ClientComponent
+      
+    },
+    {
+        path : 'clientlist',
+        component : ClientlistComponent
+      
+    },
+    {
+        path: 'client/:id',
+        component: ClientComponent
       
     }
       

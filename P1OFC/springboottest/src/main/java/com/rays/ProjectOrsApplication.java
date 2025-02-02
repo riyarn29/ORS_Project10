@@ -43,6 +43,7 @@ public class ProjectOrsApplication extends SpringBootServletInitializer {
                 cors.allowedOrigins("http://localhost:4200");
                 cors.allowedMethods("GET", "POST", "PUT", "DELETE");
                 cors.allowCredentials(true);
+                
             }
 
             @Override

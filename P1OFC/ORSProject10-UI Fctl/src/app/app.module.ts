@@ -68,6 +68,15 @@ import { CustomerlistComponent } from './customer/customerlist.component';
 import { AbcComponent } from './abc/abc.component';
 import { AbclistComponent } from './abc/abclist.component';
 
+import { PortfolioComponent } from './portfolio/portfolio.component';
+import { PortfoliolistComponent } from './portfolio/portfoliolist.component';
+import { RegionComponent } from './region/region.component';
+import { RegionlistComponent } from './region/regionlist.component';
+import { FollowupComponent } from './followup/followup.component';
+import { FollowuplistComponent } from './followup/followuplist.component';
+import { ClientComponent } from './client/client.component';
+import { ClientlistComponent } from './client/clientlist.component';
+
 
 
 // import { AuthService } from './auth.service';
@@ -135,6 +144,15 @@ export function myHttpLoader(http: HttpClient) {
     CustomerlistComponent,
     AbcComponent,
     AbclistComponent,
+ 
+    PortfolioComponent,
+    PortfoliolistComponent,
+    RegionComponent,
+    RegionlistComponent,
+    FollowupComponent,
+    FollowuplistComponent,
+    ClientComponent,
+    ClientlistComponent,
     
     
 

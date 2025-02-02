@@ -57,7 +57,7 @@
                   <div class="input-group-text"><i class="fa fa-id-badge grey-text"></i></div>
                 </div>
                 <input type="text" name="registrationNumber" [(ngModel)]="form.data.registrationNumber" class="form-control"
-                  (keydown)="filterInput($event, 'errorMessageRegistrationNumber', 20, '')"
+                  (keydown)="filterInput($event, 'errorMessageRegistrationNumber', 20, 'char')"
                   placeholder="{{ 'Enter Registration Number' | translate }}" required>
               </div>
               <span *ngIf="errorMessageRegistrationNumber" class="alertRedColor">{{ errorMessageRegistrationNumber }}</span>

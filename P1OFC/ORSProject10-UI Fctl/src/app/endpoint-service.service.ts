@@ -27,6 +27,12 @@ export class EndpointServiceService {
   public STOCKANALYSIS = this.SERVER_URL + "/StockAnalysis";
   public CUSTOMER = this.SERVER_URL + "/Customer";
   public ABC = this.SERVER_URL + "/Abc";
+  public RIYA = this.SERVER_URL + "/Riya";
+  public PORTFOLIO = this.SERVER_URL + "/Portfolio";
+  public REGION = this.SERVER_URL + "/Region";
+  public FOLLOWUP = this.SERVER_URL + "/FollowUp";
+  public CLIENT = this.SERVER_URL + "/Client";
+
 
 
 }

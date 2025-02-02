@@ -18,7 +18,7 @@ export class AbcComponent extends BaseCtl {
 
 
   constructor(public locator: ServiceLocatorService, public route: ActivatedRoute) {
-    super(locator.endpoints.ABC, locator, route);
+    super(locator.endpoints.XYZ, locator, route);
   }
 
   validateForm(form): boolean {

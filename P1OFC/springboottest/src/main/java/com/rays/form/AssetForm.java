@@ -17,6 +17,7 @@ import com.rays.dto.AssetDTO;
 public class AssetForm extends BaseForm {
 
     @NotEmpty(message = "Please enter the registration number")
+    
     private String registrationNumber;
 
     @PastOrPresent(message = "Acquisition date must be today or in the past")

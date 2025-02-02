@@ -17,7 +17,8 @@ export class BaseCtl implements OnInit {
     deleteMany: null,
     preload: null,
     report: null,
-    address:null
+    address:null,
+    //preloadd:null
   }
 
   initApi(ep) {
@@ -30,6 +31,8 @@ export class BaseCtl implements OnInit {
     this.api.preload = ep + "/preload";
     this.api.report = ep + "/report";
     this.api.address = ep + "/address";
+   // this.api.preloadd = ep + "/preloadd";
+
 
     console.log("API", this.api);
   }
@@ -42,6 +45,8 @@ export class BaseCtl implements OnInit {
     error: false, //error 
     message: null, //error or success message
     preload: [], // preload data
+    preloadd: [], // preload data
+
     data: { id: null }, //form data
     inputerror: {}, // form input error messages
     searchParams: {}, //search form
@@ -77,6 +82,7 @@ export class BaseCtl implements OnInit {
    */
   ngOnInit() {
     this.preload();
+   // this.preloadd();
     if (this.form.data.id && this.form.data.id > 0) {
       this.display();
     }
@@ -99,6 +105,22 @@ export class BaseCtl implements OnInit {
       console.log('FORM', _self.form);
     });
   }
+
+
+  // preloadd() {
+  //   console.log("preload start")
+  //   var _self = this;
+  //   this.serviceLocator.httpService.get(_self.api.preloadd, function (res) {
+  //     console.log("base list preload",_self.api.preloadd)
+  //     if (res.success) {
+  //       _self.form.preloadd = res.result;
+  //     } else {
+  //       _self.form.error = true
+  //       _self.form.message = res.result.message;
+  //     }
+  //     console.log('FORM', _self.form);
+  //   });
+  // }
 
   validate() {
     return this.validateForm(this.form.data);

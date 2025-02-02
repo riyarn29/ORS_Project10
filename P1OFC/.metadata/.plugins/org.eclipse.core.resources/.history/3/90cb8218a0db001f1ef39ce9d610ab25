@@ -1,0 +1,31 @@
+package com.rays.dto;
+
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import com.rays.common.BaseDTO;
+
+@Entity
+@Table(name = "st_asset")
+public class RegionDTO extends BaseDTO {
+
+	 @Column(name = "STATE", length = 100)
+	    private String state;
+
+	  
+	    @Column(name = "PRICE")
+	    private Long price;
+
+	    @Column(name = "LATITUDE")
+	    private Double latitude;
+
+	    
+	    @Column(name = "REGION", length = 50)
+	    private String region;
+	    
+	    
+	    
+}
