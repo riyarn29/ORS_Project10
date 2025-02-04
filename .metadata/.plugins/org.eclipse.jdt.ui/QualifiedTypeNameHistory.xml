@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.rays.common.BaseForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.ABCDTO"/>
+    <fullyQualifiedTypeName name="com.rays.dao.AbcDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.XyzDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.form.XyzForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.XyzDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.XyzServiceInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.RiyaDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.form.RiyaForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.RiyaDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.RiyaServiceInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.PortfolioDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.PortfolioDAOImpl"/>
+    <fullyQualifiedTypeName name="com.rays.form.PortfolioForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.PortfolioDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.PortfolioServiceInt"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Pattern"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Positive"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.DecimalMin"/>
+    <fullyQualifiedTypeName name="com.rays.dao.RegionDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.RegionDAOImpl"/>
+    <fullyQualifiedTypeName name="com.rays.form.RegionForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.RegionDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.RegionServiceInt"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidDouble"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.rays.dao.FollowUpDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.FollowUpDAOImpl"/>
+    <fullyQualifiedTypeName name="com.rays.form.FollowUpForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.FollowUpDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.FollowUpServiceInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.ClientDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.ClientDAOImpl"/>
+    <fullyQualifiedTypeName name="com.rays.form.ClientForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.ClientDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.ClientServiceInt"/>
+</qualifiedTypeNameHistroy>
