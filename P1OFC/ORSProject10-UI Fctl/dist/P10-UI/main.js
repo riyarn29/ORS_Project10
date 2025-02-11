@@ -367,35 +367,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _marksheet_marksheetmerit_list_component__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./marksheet/marksheetmerit-list.component */ "./src/app/marksheet/marksheetmerit-list.component.ts");
 /* harmony import */ var _marksheet_getmarksheet_component__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./marksheet/getmarksheet.component */ "./src/app/marksheet/getmarksheet.component.ts");
 /* harmony import */ var _user_changepassword_component__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./user/changepassword.component */ "./src/app/user/changepassword.component.ts");
-/* harmony import */ var _spinner_spinner_component__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./spinner/spinner.component */ "./src/app/spinner/spinner.component.ts");
-/* harmony import */ var _user_myprofile_component__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./user/myprofile.component */ "./src/app/user/myprofile.component.ts");
-/* harmony import */ var _asset_asset_component__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./asset/asset.component */ "./src/app/asset/asset.component.ts");
-/* harmony import */ var _asset_assetlist_component__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./asset/assetlist.component */ "./src/app/asset/assetlist.component.ts");
-/* harmony import */ var _iteminformation_iteminformation_component__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./iteminformation/iteminformation.component */ "./src/app/iteminformation/iteminformation.component.ts");
-/* harmony import */ var _iteminformation_iteminformationlist_component__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./iteminformation/iteminformationlist.component */ "./src/app/iteminformation/iteminformationlist.component.ts");
-/* harmony import */ var _department_department_component__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./department/department.component */ "./src/app/department/department.component.ts");
-/* harmony import */ var _department_departmentlist_component__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./department/departmentlist.component */ "./src/app/department/departmentlist.component.ts");
-/* harmony import */ var _stockanalysis_stockanalysis_component__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./stockanalysis/stockanalysis.component */ "./src/app/stockanalysis/stockanalysis.component.ts");
-/* harmony import */ var _stockanalysis_stockanalysislist_component__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./stockanalysis/stockanalysislist.component */ "./src/app/stockanalysis/stockanalysislist.component.ts");
-/* harmony import */ var _customer_customer_component__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./customer/customer.component */ "./src/app/customer/customer.component.ts");
-/* harmony import */ var _customer_customerlist_component__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./customer/customerlist.component */ "./src/app/customer/customerlist.component.ts");
-/* harmony import */ var _abc_abc_component__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./abc/abc.component */ "./src/app/abc/abc.component.ts");
-/* harmony import */ var _abc_abclist_component__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./abc/abclist.component */ "./src/app/abc/abclist.component.ts");
-/* harmony import */ var _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./portfolio/portfolio.component */ "./src/app/portfolio/portfolio.component.ts");
-/* harmony import */ var _portfolio_portfoliolist_component__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./portfolio/portfoliolist.component */ "./src/app/portfolio/portfoliolist.component.ts");
-/* harmony import */ var _region_region_component__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./region/region.component */ "./src/app/region/region.component.ts");
-/* harmony import */ var _region_regionlist_component__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./region/regionlist.component */ "./src/app/region/regionlist.component.ts");
-/* harmony import */ var _followup_followup_component__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./followup/followup.component */ "./src/app/followup/followup.component.ts");
-/* harmony import */ var _followup_followuplist_component__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./followup/followuplist.component */ "./src/app/followup/followuplist.component.ts");
-/* harmony import */ var _client_client_component__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./client/client.component */ "./src/app/client/client.component.ts");
-/* harmony import */ var _client_clientlist_component__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./client/clientlist.component */ "./src/app/client/clientlist.component.ts");
-
-
-
-
-
-
-
+/* harmony import */ var _user_myprofile_component__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./user/myprofile.component */ "./src/app/user/myprofile.component.ts");
+/* harmony import */ var _asset_asset_component__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./asset/asset.component */ "./src/app/asset/asset.component.ts");
+/* harmony import */ var _asset_assetlist_component__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./asset/assetlist.component */ "./src/app/asset/assetlist.component.ts");
+/* harmony import */ var _abc_abc_component__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./abc/abc.component */ "./src/app/abc/abc.component.ts");
+/* harmony import */ var _abc_abclist_component__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./abc/abclist.component */ "./src/app/abc/abclist.component.ts");
+/* harmony import */ var _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./portfolio/portfolio.component */ "./src/app/portfolio/portfolio.component.ts");
+/* harmony import */ var _portfolio_portfoliolist_component__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./portfolio/portfoliolist.component */ "./src/app/portfolio/portfoliolist.component.ts");
+/* harmony import */ var _region_region_component__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./region/region.component */ "./src/app/region/region.component.ts");
+/* harmony import */ var _region_regionlist_component__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./region/regionlist.component */ "./src/app/region/regionlist.component.ts");
+/* harmony import */ var _followup_followup_component__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./followup/followup.component */ "./src/app/followup/followup.component.ts");
+/* harmony import */ var _followup_followuplist_component__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./followup/followuplist.component */ "./src/app/followup/followuplist.component.ts");
+/* harmony import */ var _client_client_component__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./client/client.component */ "./src/app/client/client.component.ts");
+/* harmony import */ var _client_clientlist_component__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./client/clientlist.component */ "./src/app/client/clientlist.component.ts");
+/* harmony import */ var _xyz_xyz_component__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./xyz/xyz.component */ "./src/app/xyz/xyz.component.ts");
+/* harmony import */ var _xyz_xyzlist_component__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./xyz/xyzlist.component */ "./src/app/xyz/xyzlist.component.ts");
 
 
 
@@ -459,10 +445,6 @@ var routes = [
     {
         path: 'login/:userparams',
         component: _login_login_component__WEBPACK_IMPORTED_MODULE_6__["LoginComponent"]
-    },
-    {
-        path: 'spinner',
-        component: _spinner_spinner_component__WEBPACK_IMPORTED_MODULE_31__["SpinnerComponent"]
     },
     {
         path: 'forgotpassword',
@@ -602,7 +584,7 @@ var routes = [
     },
     {
         path: 'myprofile',
-        component: _user_myprofile_component__WEBPACK_IMPORTED_MODULE_32__["MyprofileComponent"]
+        component: _user_myprofile_component__WEBPACK_IMPORTED_MODULE_31__["MyprofileComponent"]
     },
     {
         path: 'file',
@@ -613,117 +595,83 @@ var routes = [
     },
     {
         path: 'asset',
-        component: _asset_asset_component__WEBPACK_IMPORTED_MODULE_33__["AssetComponent"]
+        component: _asset_asset_component__WEBPACK_IMPORTED_MODULE_32__["AssetComponent"]
     },
     {
         path: 'assetlist',
-        component: _asset_assetlist_component__WEBPACK_IMPORTED_MODULE_34__["AssetListComponent"]
+        component: _asset_assetlist_component__WEBPACK_IMPORTED_MODULE_33__["AssetListComponent"]
     },
     {
         path: 'asset/:id',
-        component: _asset_asset_component__WEBPACK_IMPORTED_MODULE_33__["AssetComponent"]
+        component: _asset_asset_component__WEBPACK_IMPORTED_MODULE_32__["AssetComponent"]
     },
     {
-        path: 'iteminformation',
-        component: _iteminformation_iteminformation_component__WEBPACK_IMPORTED_MODULE_35__["IteminformationComponent"]
-    },
-    {
-        path: 'iteminformationlist',
-        component: _iteminformation_iteminformationlist_component__WEBPACK_IMPORTED_MODULE_36__["IteminformationlistComponent"]
-    },
-    {
-        path: 'iteminformation/:id',
-        component: _iteminformation_iteminformation_component__WEBPACK_IMPORTED_MODULE_35__["IteminformationComponent"]
-    },
-    {
-        path: 'department',
-        component: _department_department_component__WEBPACK_IMPORTED_MODULE_37__["DepartmentComponent"]
-    },
-    {
-        path: 'departmentlist',
-        component: _department_departmentlist_component__WEBPACK_IMPORTED_MODULE_38__["DepartmentlistComponent"]
-    },
-    {
-        path: 'department/:id',
-        component: _department_department_component__WEBPACK_IMPORTED_MODULE_37__["DepartmentComponent"]
-    },
-    {
-        path: 'stockanalysis',
-        component: _stockanalysis_stockanalysis_component__WEBPACK_IMPORTED_MODULE_39__["StockanalysisComponent"]
-    },
-    {
-        path: 'stockanalysislist',
-        component: _stockanalysis_stockanalysislist_component__WEBPACK_IMPORTED_MODULE_40__["StockanalysislistComponent"]
-    },
-    {
-        path: 'stockanalysis/:id',
-        component: _stockanalysis_stockanalysis_component__WEBPACK_IMPORTED_MODULE_39__["StockanalysisComponent"]
-    }, {
-        path: 'customer',
-        component: _customer_customer_component__WEBPACK_IMPORTED_MODULE_41__["CustomerComponent"]
-    },
-    {
-        path: 'customerlist',
-        component: _customer_customerlist_component__WEBPACK_IMPORTED_MODULE_42__["CustomerlistComponent"]
-    },
-    {
-        path: 'customer/:id',
-        component: _customer_customer_component__WEBPACK_IMPORTED_MODULE_41__["CustomerComponent"]
-    }, {
         path: 'abc',
-        component: _abc_abc_component__WEBPACK_IMPORTED_MODULE_43__["AbcComponent"]
+        component: _abc_abc_component__WEBPACK_IMPORTED_MODULE_34__["AbcComponent"]
     },
     {
         path: 'abclist',
-        component: _abc_abclist_component__WEBPACK_IMPORTED_MODULE_44__["AbclistComponent"]
+        component: _abc_abclist_component__WEBPACK_IMPORTED_MODULE_35__["AbclistComponent"]
     },
     {
         path: 'abc/:id',
-        component: _abc_abc_component__WEBPACK_IMPORTED_MODULE_43__["AbcComponent"]
+        component: _abc_abc_component__WEBPACK_IMPORTED_MODULE_34__["AbcComponent"]
     }, {
         path: 'portfolio',
-        component: _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_45__["PortfolioComponent"]
+        component: _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_36__["PortfolioComponent"]
     },
     {
         path: 'portfoliolist',
-        component: _portfolio_portfoliolist_component__WEBPACK_IMPORTED_MODULE_46__["PortfoliolistComponent"]
+        component: _portfolio_portfoliolist_component__WEBPACK_IMPORTED_MODULE_37__["PortfoliolistComponent"]
     },
     {
         path: 'portfolio/:id',
-        component: _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_45__["PortfolioComponent"]
+        component: _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_36__["PortfolioComponent"]
     }, {
         path: 'region',
-        component: _region_region_component__WEBPACK_IMPORTED_MODULE_47__["RegionComponent"]
+        component: _region_region_component__WEBPACK_IMPORTED_MODULE_38__["RegionComponent"]
     },
     {
         path: 'regionlist',
-        component: _region_regionlist_component__WEBPACK_IMPORTED_MODULE_48__["RegionlistComponent"]
+        component: _region_regionlist_component__WEBPACK_IMPORTED_MODULE_39__["RegionlistComponent"]
     },
     {
         path: 'region/:id',
-        component: _region_region_component__WEBPACK_IMPORTED_MODULE_47__["RegionComponent"]
+        component: _region_region_component__WEBPACK_IMPORTED_MODULE_38__["RegionComponent"]
     }, {
         path: 'followup',
-        component: _followup_followup_component__WEBPACK_IMPORTED_MODULE_49__["FollowupComponent"]
+        component: _followup_followup_component__WEBPACK_IMPORTED_MODULE_40__["FollowupComponent"]
     },
     {
         path: 'followuplist',
-        component: _followup_followuplist_component__WEBPACK_IMPORTED_MODULE_50__["FollowuplistComponent"]
+        component: _followup_followuplist_component__WEBPACK_IMPORTED_MODULE_41__["FollowuplistComponent"]
     },
     {
         path: 'followup/:id',
-        component: _followup_followup_component__WEBPACK_IMPORTED_MODULE_49__["FollowupComponent"]
+        component: _followup_followup_component__WEBPACK_IMPORTED_MODULE_40__["FollowupComponent"]
     }, {
         path: 'client',
-        component: _client_client_component__WEBPACK_IMPORTED_MODULE_51__["ClientComponent"]
+        component: _client_client_component__WEBPACK_IMPORTED_MODULE_42__["ClientComponent"]
     },
     {
         path: 'clientlist',
-        component: _client_clientlist_component__WEBPACK_IMPORTED_MODULE_52__["ClientlistComponent"]
+        component: _client_clientlist_component__WEBPACK_IMPORTED_MODULE_43__["ClientlistComponent"]
     },
     {
         path: 'client/:id',
-        component: _client_client_component__WEBPACK_IMPORTED_MODULE_51__["ClientComponent"]
+        component: _client_client_component__WEBPACK_IMPORTED_MODULE_42__["ClientComponent"]
+    },
+    {
+        path: 'xyz',
+        component: _xyz_xyz_component__WEBPACK_IMPORTED_MODULE_44__["XyzComponent"]
+    },
+    {
+        path: 'xyz/:id',
+        component: _xyz_xyz_component__WEBPACK_IMPORTED_MODULE_44__["XyzComponent"]
+    },
+    {
+        path: 'xyzlist',
+        component: _xyz_xyzlist_component__WEBPACK_IMPORTED_MODULE_45__["XyzlistComponent"]
     }
 ];
 var AppRoutingModule = /** @class */ (function () {
@@ -854,34 +802,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _auth_service_service__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./auth-service.service */ "./src/app/auth-service.service.ts");
 /* harmony import */ var _asset_asset_component__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./asset/asset.component */ "./src/app/asset/asset.component.ts");
 /* harmony import */ var _asset_assetlist_component__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./asset/assetlist.component */ "./src/app/asset/assetlist.component.ts");
-/* harmony import */ var _iteminformation_iteminformation_component__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./iteminformation/iteminformation.component */ "./src/app/iteminformation/iteminformation.component.ts");
-/* harmony import */ var _iteminformation_iteminformationlist_component__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./iteminformation/iteminformationlist.component */ "./src/app/iteminformation/iteminformationlist.component.ts");
-/* harmony import */ var _department_department_component__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./department/department.component */ "./src/app/department/department.component.ts");
-/* harmony import */ var _department_departmentlist_component__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./department/departmentlist.component */ "./src/app/department/departmentlist.component.ts");
-/* harmony import */ var _stockanalysis_stockanalysis_component__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./stockanalysis/stockanalysis.component */ "./src/app/stockanalysis/stockanalysis.component.ts");
-/* harmony import */ var _stockanalysis_stockanalysislist_component__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./stockanalysis/stockanalysislist.component */ "./src/app/stockanalysis/stockanalysislist.component.ts");
-/* harmony import */ var _computer_computerlist_component__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./computer/computerlist.component */ "./src/app/computer/computerlist.component.ts");
-/* harmony import */ var _computer_computer_component__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./computer/computer.component */ "./src/app/computer/computer.component.ts");
-/* harmony import */ var _customer_customer_component__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./customer/customer.component */ "./src/app/customer/customer.component.ts");
-/* harmony import */ var _customer_customerlist_component__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./customer/customerlist.component */ "./src/app/customer/customerlist.component.ts");
-/* harmony import */ var _abc_abc_component__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./abc/abc.component */ "./src/app/abc/abc.component.ts");
-/* harmony import */ var _abc_abclist_component__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./abc/abclist.component */ "./src/app/abc/abclist.component.ts");
-/* harmony import */ var _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./portfolio/portfolio.component */ "./src/app/portfolio/portfolio.component.ts");
-/* harmony import */ var _portfolio_portfoliolist_component__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! ./portfolio/portfoliolist.component */ "./src/app/portfolio/portfoliolist.component.ts");
-/* harmony import */ var _region_region_component__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./region/region.component */ "./src/app/region/region.component.ts");
-/* harmony import */ var _region_regionlist_component__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./region/regionlist.component */ "./src/app/region/regionlist.component.ts");
-/* harmony import */ var _followup_followup_component__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! ./followup/followup.component */ "./src/app/followup/followup.component.ts");
-/* harmony import */ var _followup_followuplist_component__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! ./followup/followuplist.component */ "./src/app/followup/followuplist.component.ts");
-/* harmony import */ var _client_client_component__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! ./client/client.component */ "./src/app/client/client.component.ts");
-/* harmony import */ var _client_clientlist_component__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! ./client/clientlist.component */ "./src/app/client/clientlist.component.ts");
-
-
-
-
-
-
-
-
+/* harmony import */ var _abc_abc_component__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./abc/abc.component */ "./src/app/abc/abc.component.ts");
+/* harmony import */ var _abc_abclist_component__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./abc/abclist.component */ "./src/app/abc/abclist.component.ts");
+/* harmony import */ var _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./portfolio/portfolio.component */ "./src/app/portfolio/portfolio.component.ts");
+/* harmony import */ var _portfolio_portfoliolist_component__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./portfolio/portfoliolist.component */ "./src/app/portfolio/portfoliolist.component.ts");
+/* harmony import */ var _region_region_component__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./region/region.component */ "./src/app/region/region.component.ts");
+/* harmony import */ var _region_regionlist_component__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./region/regionlist.component */ "./src/app/region/regionlist.component.ts");
+/* harmony import */ var _followup_followup_component__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./followup/followup.component */ "./src/app/followup/followup.component.ts");
+/* harmony import */ var _followup_followuplist_component__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./followup/followuplist.component */ "./src/app/followup/followuplist.component.ts");
+/* harmony import */ var _client_client_component__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./client/client.component */ "./src/app/client/client.component.ts");
+/* harmony import */ var _client_clientlist_component__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./client/clientlist.component */ "./src/app/client/clientlist.component.ts");
+/* harmony import */ var _xyz_xyz_component__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./xyz/xyz.component */ "./src/app/xyz/xyz.component.ts");
+/* harmony import */ var _xyz_xyzlist_component__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./xyz/xyzlist.component */ "./src/app/xyz/xyzlist.component.ts");
 
 
 
@@ -989,26 +921,18 @@ var AppModule = /** @class */ (function () {
                 _user_myprofile_component__WEBPACK_IMPORTED_MODULE_44__["MyprofileComponent"],
                 _asset_asset_component__WEBPACK_IMPORTED_MODULE_46__["AssetComponent"],
                 _asset_assetlist_component__WEBPACK_IMPORTED_MODULE_47__["AssetListComponent"],
-                _iteminformation_iteminformation_component__WEBPACK_IMPORTED_MODULE_48__["IteminformationComponent"],
-                _iteminformation_iteminformationlist_component__WEBPACK_IMPORTED_MODULE_49__["IteminformationlistComponent"],
-                _department_department_component__WEBPACK_IMPORTED_MODULE_50__["DepartmentComponent"],
-                _department_departmentlist_component__WEBPACK_IMPORTED_MODULE_51__["DepartmentlistComponent"],
-                _stockanalysis_stockanalysis_component__WEBPACK_IMPORTED_MODULE_52__["StockanalysisComponent"],
-                _stockanalysis_stockanalysislist_component__WEBPACK_IMPORTED_MODULE_53__["StockanalysislistComponent"],
-                _computer_computerlist_component__WEBPACK_IMPORTED_MODULE_54__["ComputerlistComponent"],
-                _computer_computer_component__WEBPACK_IMPORTED_MODULE_55__["ComputerComponent"],
-                _customer_customer_component__WEBPACK_IMPORTED_MODULE_56__["CustomerComponent"],
-                _customer_customerlist_component__WEBPACK_IMPORTED_MODULE_57__["CustomerlistComponent"],
-                _abc_abc_component__WEBPACK_IMPORTED_MODULE_58__["AbcComponent"],
-                _abc_abclist_component__WEBPACK_IMPORTED_MODULE_59__["AbclistComponent"],
-                _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_60__["PortfolioComponent"],
-                _portfolio_portfoliolist_component__WEBPACK_IMPORTED_MODULE_61__["PortfoliolistComponent"],
-                _region_region_component__WEBPACK_IMPORTED_MODULE_62__["RegionComponent"],
-                _region_regionlist_component__WEBPACK_IMPORTED_MODULE_63__["RegionlistComponent"],
-                _followup_followup_component__WEBPACK_IMPORTED_MODULE_64__["FollowupComponent"],
-                _followup_followuplist_component__WEBPACK_IMPORTED_MODULE_65__["FollowuplistComponent"],
-                _client_client_component__WEBPACK_IMPORTED_MODULE_66__["ClientComponent"],
-                _client_clientlist_component__WEBPACK_IMPORTED_MODULE_67__["ClientlistComponent"],
+                _abc_abc_component__WEBPACK_IMPORTED_MODULE_48__["AbcComponent"],
+                _abc_abclist_component__WEBPACK_IMPORTED_MODULE_49__["AbclistComponent"],
+                _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_50__["PortfolioComponent"],
+                _portfolio_portfoliolist_component__WEBPACK_IMPORTED_MODULE_51__["PortfoliolistComponent"],
+                _region_region_component__WEBPACK_IMPORTED_MODULE_52__["RegionComponent"],
+                _region_regionlist_component__WEBPACK_IMPORTED_MODULE_53__["RegionlistComponent"],
+                _followup_followup_component__WEBPACK_IMPORTED_MODULE_54__["FollowupComponent"],
+                _followup_followuplist_component__WEBPACK_IMPORTED_MODULE_55__["FollowuplistComponent"],
+                _client_client_component__WEBPACK_IMPORTED_MODULE_56__["ClientComponent"],
+                _client_clientlist_component__WEBPACK_IMPORTED_MODULE_57__["ClientlistComponent"],
+                _xyz_xyz_component__WEBPACK_IMPORTED_MODULE_58__["XyzComponent"],
+                _xyz_xyzlist_component__WEBPACK_IMPORTED_MODULE_59__["XyzlistComponent"],
             ],
             imports: [
                 _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
@@ -2262,118 +2186,6 @@ var CollegeComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ "./src/app/computer/computer.component.css":
-/*!*************************************************!*\
-  !*** ./src/app/computer/computer.component.css ***!
-  \*************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXB1dGVyL2NvbXB1dGVyLmNvbXBvbmVudC5jc3MifQ== */"
-
-/***/ }),
-
-/***/ "./src/app/computer/computer.component.html":
-/*!**************************************************!*\
-  !*** ./src/app/computer/computer.component.html ***!
-  \**************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<p>\r\n  computer works!\r\n</p>\r\n"
-
-/***/ }),
-
-/***/ "./src/app/computer/computer.component.ts":
-/*!************************************************!*\
-  !*** ./src/app/computer/computer.component.ts ***!
-  \************************************************/
-/*! exports provided: ComputerComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ComputerComponent", function() { return ComputerComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-
-
-var ComputerComponent = /** @class */ (function () {
-    function ComputerComponent() {
-    }
-    ComputerComponent.prototype.ngOnInit = function () {
-    };
-    ComputerComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-computer',
-            template: __webpack_require__(/*! ./computer.component.html */ "./src/app/computer/computer.component.html"),
-            styles: [__webpack_require__(/*! ./computer.component.css */ "./src/app/computer/computer.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
-    ], ComputerComponent);
-    return ComputerComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/computer/computerlist.component.css":
-/*!*****************************************************!*\
-  !*** ./src/app/computer/computerlist.component.css ***!
-  \*****************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXB1dGVyL2NvbXB1dGVybGlzdC5jb21wb25lbnQuY3NzIn0= */"
-
-/***/ }),
-
-/***/ "./src/app/computer/computerlist.component.html":
-/*!******************************************************!*\
-  !*** ./src/app/computer/computerlist.component.html ***!
-  \******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<p>\r\n  computerlist works!\r\n</p>\r\n"
-
-/***/ }),
-
-/***/ "./src/app/computer/computerlist.component.ts":
-/*!****************************************************!*\
-  !*** ./src/app/computer/computerlist.component.ts ***!
-  \****************************************************/
-/*! exports provided: ComputerlistComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ComputerlistComponent", function() { return ComputerlistComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-
-
-var ComputerlistComponent = /** @class */ (function () {
-    function ComputerlistComponent() {
-    }
-    ComputerlistComponent.prototype.ngOnInit = function () {
-    };
-    ComputerlistComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-computerlist',
-            template: __webpack_require__(/*! ./computerlist.component.html */ "./src/app/computer/computerlist.component.html"),
-            styles: [__webpack_require__(/*! ./computerlist.component.css */ "./src/app/computer/computerlist.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
-    ], ComputerlistComponent);
-    return ComputerlistComponent;
-}());
-
-
-
-/***/ }),
-
 /***/ "./src/app/course/course-list.component.html":
 /*!***************************************************!*\
   !*** ./src/app/course/course-list.component.html ***!
@@ -2512,266 +2324,6 @@ var CourseComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ "./src/app/customer/customer.component.css":
-/*!*************************************************!*\
-  !*** ./src/app/customer/customer.component.css ***!
-  \*************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2N1c3RvbWVyL2N1c3RvbWVyLmNvbXBvbmVudC5jc3MifQ== */"
-
-/***/ }),
-
-/***/ "./src/app/customer/customer.component.html":
-/*!**************************************************!*\
-  !*** ./src/app/customer/customer.component.html ***!
-  \**************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  .grad {\r\n    background-image: linear-gradient(to bottom right, rgb(32, 168, 168), rgb(219, 231, 237));\r\n    background-repeat: no-repeat;\r\n    background-size: 100%;\r\n    padding-bottom: 25px;\r\n  }\r\n\r\n  .background {\r\n    padding-top: 3%;\r\n    padding-bottom: 13%;\r\n    background: url('assets/files/wall.jpg') no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: 100%;\r\n    height: auto;\r\n  }\r\n\r\n  .required-field {\r\n    color: red;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n</style>\r\n\r\n<div class=\"container-fluid background\">\r\n  <div class=\"row justify-content-center\">\r\n    <div class=\"col-sm-8 col-md-6 col-lg-4\">\r\n      <div class=\"card\">\r\n        <div class=\"card-body shadow-lg grad\">\r\n          <form name=\"customerForm\">\r\n            <h2 *ngIf=\"!form.data.id\" class=\"text-primary font-weight-bold\" style=\"text-align: center;\">\r\n              {{ 'Add Customer' | translate }}\r\n            </h2>\r\n            <h2 *ngIf=\"form.data.id\" class=\"text-primary font-weight-bold\" style=\"text-align: center;\">\r\n              {{ 'Update Customer' | translate }}\r\n            </h2>\r\n\r\n            <!-- Form error messages -->\r\n            <div *ngIf=\"form.error && form.message\" class=\"alert alert-danger alert-dismissible fade show\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n            <div *ngIf=\"!form.error && form.message\" class=\"alert alert-success alert-dismissible fade show\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n\r\n            <!-- Name Field with Validation -->\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Name' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-id-badge grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"name\" [(ngModel)]=\"form.data.name\" class=\"form-control\" maxlength=\"16\"\r\n                  (keydown)=\"validateName($event)\" placeholder=\"{{ 'Enter name' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"errorMessageName\" class=\"alertRedColor\">{{ errorMessageName }}</span>\r\n              <span *ngIf=\"form.inputerror?.name\" class=\"alertRedColor\">{{ form.inputerror.name }}</span>\r\n            </div>\r\n\r\n            <!-- Amount Field -->\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Amount' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-id-badge grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"amount\" [(ngModel)]=\"form.data.amount\" class=\"form-control\"\r\n                  (keydown)=\"filterInput($event, 'errorMessageAmount', 8, 'int')\"\r\n                  placeholder=\"{{ 'Enter amount' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"errorMessageAmount\" class=\"alertRedColor\">{{ errorMessageAmount }}</span>\r\n              <span *ngIf=\"form.inputerror?.amount\" class=\"alertRedColor\">{{ form.inputerror.amount }}</span>\r\n            </div>\r\n\r\n            <!-- Start Date Field -->\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Start Date' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-calendar grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"date\" name=\"startDate\" [value]=\"form.data.startDate | date:'yyyy-MM-dd'\" class=\"form-control\"\r\n                  (input)=\"form.data.startDate=parseDate($event.target.value)\"\r\n                  placeholder=\"{{ 'Enter Start Date' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"form.inputerror?.startDate\" class=\"alertRedColor\">{{ form.inputerror.startDate }}</span>\r\n            </div>\r\n\r\n            <!-- Analysis Type Field -->\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Analysis Type' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-paint-brush grey-text\"></i></div>\r\n                </div>\r\n                <select class=\"form-control\" name=\"analysisType\" [(ngModel)]=\"form.data.analysisType\" aria-label=\"ngSelected\" required>\r\n                  <option [ngValue]=\"undefined\">{{ 'Select Analysis Type' | translate }}</option>\r\n                  <option *ngFor=\"let color of form.preload.analysisList\" [value]=\"color.key\">{{ color.value }}</option>\r\n                </select>\r\n              </div>\r\n              <span *ngIf=\"form.inputerror?.analysisType\" class=\"alertRedColor\">{{ form.inputerror.analysisType }}</span>\r\n            </div>\r\n\r\n            <div class=\"row pt-2 pl-2 pb-3\">\r\n              <div class=\"col-md-3\"></div>\r\n              <div class=\"pt-2\">\r\n                <button *ngIf=\"!form.data.id > 0\" (click)=\"submit()\" class=\"btn btn-success mr-2\">\r\n                  {{ 'Save' | translate }}\r\n                </button>\r\n              </div>\r\n              <div class=\"col-md-1\"></div>\r\n              <div class=\"pt-2\">\r\n                <button *ngIf=\"form.data.id > 0\" (click)=\"submit()\" class=\"btn btn-success mr-2\">\r\n                  {{ 'Update' | translate }}\r\n                </button>\r\n              </div>\r\n              <div class=\"pt-2\">\r\n                <a class=\"btn btn-warning mr-1\" type=\"button\" [routerLink]=\"['/customerlist']\"\r\n                   style=\"text-decoration: none; color: white;\">\r\n                  {{ 'List' | translate }}\r\n                </a>\r\n              </div>\r\n            </div>\r\n            \r\n          </form>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n"
-
-/***/ }),
-
-/***/ "./src/app/customer/customer.component.ts":
-/*!************************************************!*\
-  !*** ./src/app/customer/customer.component.ts ***!
-  \************************************************/
-/*! exports provided: CustomerComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CustomerComponent", function() { return CustomerComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _base_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base.component */ "./src/app/base.component.ts");
-/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
-
-
-
-
-
-var CustomerComponent = /** @class */ (function (_super) {
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](CustomerComponent, _super);
-    function CustomerComponent(locator, route) {
-        var _this = _super.call(this, locator.endpoints.CUSTOMER, locator, route) || this;
-        _this.locator = locator;
-        _this.route = route;
-        _this.errorMessageTitle = '';
-        _this.errorMessageName = '';
-        return _this;
-    }
-    CustomerComponent.prototype.validateForm = function (form) {
-        var flag = true;
-        var validator = this.serviceLocator.dataValidator;
-        flag = flag && validator.isNotNullObject(form.name);
-        flag = flag && validator.isNotNullObject(form.analysisType);
-        flag = flag && validator.isNotNullObject(form.startDate);
-        flag = flag && validator.isNotNullObject(form.amount);
-        return flag;
-    };
-    CustomerComponent.prototype.populateForm = function (form, data) {
-        form.id = data.id;
-        form.name = data.name;
-        form.analysisType = data.analysisType;
-        form.startDate = data.startDate;
-        form.amount = data.amount;
-    };
-    CustomerComponent.prototype.validateName = function (event) {
-        var inputValue = event.target.value;
-        var inputChar = event.key;
-        var alphabetPattern = /^[a-zA-Z]*$/; // Pattern to match only alphabetic characters
-        if (!alphabetPattern.test(inputChar) && !['Backspace', 'Delete', 'Tab'].includes(inputChar)) {
-            event.preventDefault();
-            this.errorMessageName = 'Only alphabets are allowed.';
-            return;
-        }
-        if (inputValue.length < 3) {
-            this.errorMessageName = 'Name must be at least 3 characters long.';
-        }
-        else if (inputValue.length > 15) {
-            this.errorMessageName = 'Name must not exceed 15 characters.';
-        }
-        else {
-            this.errorMessageName = ''; // Clear error message if valid
-        }
-    };
-    // New method to validate before saving
-    CustomerComponent.prototype.validateBeforeSave = function () {
-        if (this.errorMessageName) {
-            // If there's any error message, don't proceed with saving
-            return false;
-        }
-        // Add other field validations if needed
-        // Validate form data
-        if (!this.validateForm(this.form.data)) {
-            return false;
-        }
-        return true;
-    };
-    // Save method that checks validation
-    CustomerComponent.prototype.saveForm = function () {
-        if (this.validateBeforeSave()) {
-            console.log('Form data is valid. Saving data...');
-            // Perform the actual save operation
-        }
-        else {
-            console.log('Validation failed. Form not saved.');
-        }
-    };
-    CustomerComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-customer',
-            template: __webpack_require__(/*! ./customer.component.html */ "./src/app/customer/customer.component.html"),
-            styles: [__webpack_require__(/*! ./customer.component.css */ "./src/app/customer/customer.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"]])
-    ], CustomerComponent);
-    return CustomerComponent;
-}(_base_component__WEBPACK_IMPORTED_MODULE_2__["BaseCtl"]));
-
-
-
-/***/ }),
-
-/***/ "./src/app/customer/customerlist.component.css":
-/*!*****************************************************!*\
-  !*** ./src/app/customer/customerlist.component.css ***!
-  \*****************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2N1c3RvbWVyL2N1c3RvbWVybGlzdC5jb21wb25lbnQuY3NzIn0= */"
-
-/***/ }),
-
-/***/ "./src/app/customer/customerlist.component.html":
-/*!******************************************************!*\
-  !*** ./src/app/customer/customerlist.component.html ***!
-  \******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  #nnn {\r\n    background: none;\r\n    border: none;\r\n    cursor: pointer;\r\n  }\r\n\r\n  .panel-heading {\r\n    height: 50px;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n  }\r\n\r\n  .search-inputs {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .form-control,\r\n  .search-inputs .btn {\r\n    margin-bottom: 10px;\r\n  }\r\n\r\n  .content-wrapper {\r\n    background: url('assets/files/teahu.png') no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: auto;\r\n    height: 105vh;\r\n    padding: 20px;\r\n  }\r\n\r\n  .table-responsive {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .col-sm-2,\r\n  .search-inputs .col-sm-1 {\r\n    padding: 0 5px;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n</style>\r\n<div class=\"content-wrapper\">\r\n  <div class=\"container-fluid\">\r\n    <div class=\"panel panel-primary\">\r\n      <div class=\"panel-heading\">\r\n        <h1 class=\"text-primary font-weight-bold\">{{ 'Customer List' | translate }}</h1>\r\n      </div>\r\n\r\n      <div class=\"row search-inputs justify-content-center\">\r\n        <div class=\"col-md-3\">\r\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"form.searchParams.name\"\r\n            placeholder=\"{{ 'Search  Name' | translate }}\" (input)=\"validateInput($event, 'name')\">\r\n          <div *ngIf=\"!isValidNameInput\" class=\"text-danger\">{{ nameErrorMessage }}</div>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"text\" name=\"amount\" [(ngModel)]=\"form.searchParams.amount\" class=\"form-control\"\r\n            (keydown)=\"filterInput($event, 'errorMessageAmount', 10, 'int')\"\r\n            placeholder=\"{{ 'Enter Amount' | translate }}\">\r\n          <span *ngIf=\"errorMessageAmount\" class=\"alertRedColor\">{{ errorMessageAmount }}</span>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"date\" name=\"startDate\" [(ngModel)]=\"form.searchParams.startDate\" class=\"form-control\"\r\n            placeholder=\"{{ 'Enter Start Date' | translate }}\">\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <select class=\"form-control\" name=\"analysisType\" [(ngModel)]=\"form.searchParams.analysisType\" aria-label=\"ngSelected\" required>\r\n            <option [ngValue]=\"undefined\">{{ 'Select Analysis Type' | translate }}</option>\r\n            <option *ngFor=\"let color of form.preload.analysisList\" [value]=\"color.key\">{{ color.value }}</option>\r\n          </select>\r\n          \r\n        </div>\r\n\r\n        <div class=\"col-sm-1\">\r\n          <button (click)=\"submit()\" class=\"btn btn-primary\">{{ 'Search' | translate }}</button>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <button (click)=\"forward('/customer')\" type=\"button\" class=\"btn btn-success\">\r\n            {{ 'Add customer' | translate }}\r\n          </button>\r\n        </div>\r\n\r\n        <div class=\"col-sm-1\">\r\n          <button (click)=\"deleteMany()\" class=\"btn btn-danger\">{{ 'Delete' | translate }}</button>\r\n        </div>\r\n      </div>\r\n\r\n      <div *ngIf=\"form.error\" class=\"alert alert-danger alert-dismissible\">\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n        {{ form.message }}\r\n      </div>\r\n\r\n      <div *ngIf=\"!form.error && form.message != null\" class=\"alert alert-success alert-dismissible\">\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n        {{ form.message }}\r\n      </div>\r\n\r\n      <div class=\"table-responsive\">\r\n        <table class=\"table table-bordered table-hover font-weight-bold text-dark\">\r\n          <thead class=\"thead-dark text-uppercase\">\r\n            <tr align=\"center\">\r\n              <th><input type=\"checkbox\" [(ngModel)]=\"isMasterSel\" name=\"list_name\"\r\n                  (change)=\"checkUncheckAll($event)\" /></th>\r\n              <th>{{ 'S.No' | translate }}</th>\r\n              <th>{{ 'Name' | translate }}</th>\r\n              <th>{{ 'Start Date' | translate }}</th>\r\n              <th>{{ 'Amount' | translate }}</th>\r\n              <th>{{ 'Analysis Type' | translate }}</th>\r\n              <th>{{ 'Edit' | translate }}</th>\r\n            </tr>\r\n          </thead>\r\n          <tbody>\r\n            <tr *ngFor=\"let m of form.list; let i = index\" align=\"center\">\r\n              <td><input type=\"checkbox\" #checkboxes (change)=\"checklistUpdate()\" name=\"list_name\" [id]=\"m.id\" /></td>\r\n              <td>{{ (form.pageNo * 5) + i + 1 }}</td>\r\n              <td>{{ m.name }}</td>\r\n              <td>{{ m.startDate | date:'yyyy-MM-dd' }}</td>\r\n              <td>{{ m.amount }}</td>\r\n              <td>{{ findSelValueByKey(m.analysisType,form.preload.analysisList) }}</td>\r\n\r\n              <td>\r\n                <button class=\"fa fa-edit text-primary\" id=\"nnn\" (click)=\"forward('/customer/' + m.id)\">\r\n                </button>\r\n              </td>\r\n            </tr>\r\n          </tbody>\r\n        </table>\r\n\r\n        <div class=\"d-flex justify-content-between mt-3\">\r\n          <button (click)=\"previous()\" [disabled]=\"form.pageNo == 0\" class=\"btn btn-info\">{{ 'Previous' | translate }}</button>\r\n\r\n          <div>\r\n            <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/customerlist']\" (click)=\"exit()\">\r\n              {{ 'Reset' | translate }}\r\n            </a>\r\n          </div>\r\n\r\n          <div *ngIf=\"form.list.length == 0\">\r\n            <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/customerlist']\" (click)=\"exit()\">\r\n              {{ 'Back' | translate }}\r\n            </a>\r\n          </div>\r\n          <button (click)=\"next()\" [disabled]=\"nextList == 0\" class=\"btn btn-info\">{{ 'Next' | translate }}</button>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n"
-
-/***/ }),
-
-/***/ "./src/app/customer/customerlist.component.ts":
-/*!****************************************************!*\
-  !*** ./src/app/customer/customerlist.component.ts ***!
-  \****************************************************/
-/*! exports provided: CustomerlistComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CustomerlistComponent", function() { return CustomerlistComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _base_list_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base-list.component */ "./src/app/base-list.component.ts");
-/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
-
-
-
-
-
-
-var CustomerlistComponent = /** @class */ (function (_super) {
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](CustomerlistComponent, _super);
-    function CustomerlistComponent(locator, route, httpClient) {
-        var _this = _super.call(this, locator.endpoints.CUSTOMER, locator, route) || this;
-        _this.locator = locator;
-        _this.route = route;
-        _this.httpClient = httpClient;
-        _this.form = {
-            error: false,
-            message: null,
-            preload: [],
-            data: { id: null },
-            inputerror: {},
-            searchParams: {
-                name: '',
-                mobile: '',
-                date: '',
-                dateOfJoining: '',
-                experienceId: ''
-            },
-            searchMessage: null,
-            list: [],
-            pageNo: 0
-        };
-        _this.isValidMobileInput = true;
-        _this.isValidNameInput = true;
-        _this.nameErrorMessage = '';
-        _this.mobileErrorMessage = '';
-        return _this;
-    }
-    CustomerlistComponent.prototype.ngOnInit = function () {
-        _super.prototype.ngOnInit.call(this);
-    };
-    // Format date function
-    CustomerlistComponent.prototype.formatDate = function (event) {
-        var selectedDate = new Date(event);
-        var formattedDate = selectedDate.toISOString().split('T')[0];
-        this.form.searchParams.date = formattedDate;
-    };
-    CustomerlistComponent.prototype.validateInput = function (event, field) {
-        var value = event.target.value;
-        // For the "name" field validation
-        if (field === 'name') {
-            // Restrict input to alphabets and spaces only
-            if (/[^A-Za-z\s]/.test(value)) {
-                event.target.value = value.replace(/[^A-Za-z\s]/g, ''); // Remove non-alphabetic characters
-                this.nameErrorMessage = 'Please type alphabets and spaces only';
-                this.isValidNameInput = false;
-            }
-            else if (value.length > 15) {
-                // Restrict input to a maximum length of 15 characters
-                event.target.value = value.substring(0, 15); // Trim the input to 15 characters
-                this.nameErrorMessage = 'Name cannot exceed 15 characters';
-                this.isValidNameInput = false;
-            }
-            else {
-                // If input is valid, clear the error message
-                this.nameErrorMessage = '';
-                this.isValidNameInput = true;
-            }
-        }
-    };
-    // Submit method
-    CustomerlistComponent.prototype.submit = function () {
-        // Reset page number before searching
-        this.form.pageNo = 0;
-        // Call the search method after formatting the date
-        this.search();
-    };
-    // Search method
-    CustomerlistComponent.prototype.search = function () {
-        // Clear previous search message
-        this.form.searchMessage = null;
-        // Perform the search operation with the search parameters
-        _super.prototype.search.call(this);
-    };
-    CustomerlistComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-customerlist',
-            template: __webpack_require__(/*! ./customerlist.component.html */ "./src/app/customer/customerlist.component.html"),
-            styles: [__webpack_require__(/*! ./customerlist.component.css */ "./src/app/customer/customerlist.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"], _angular_common_http__WEBPACK_IMPORTED_MODULE_5__["HttpClient"]])
-    ], CustomerlistComponent);
-    return CustomerlistComponent;
-}(_base_list_component__WEBPACK_IMPORTED_MODULE_2__["BaseListCtl"]));
-
-
-
-/***/ }),
-
 /***/ "./src/app/dashboard/dashboard.component.css":
 /*!***************************************************!*\
   !*** ./src/app/dashboard/dashboard.component.css ***!
@@ -2828,170 +2380,6 @@ var DashboardComponent = /** @class */ (function () {
 
 /***/ }),
 
-/***/ "./src/app/department/department.component.css":
-/*!*****************************************************!*\
-  !*** ./src/app/department/department.component.css ***!
-  \*****************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2RlcGFydG1lbnQvZGVwYXJ0bWVudC5jb21wb25lbnQuY3NzIn0= */"
-
-/***/ }),
-
-/***/ "./src/app/department/department.component.html":
-/*!******************************************************!*\
-  !*** ./src/app/department/department.component.html ***!
-  \******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  .grad {\r\n    background-image: linear-gradient(to bottom right, rgb(32, 168, 168), rgb(219, 231, 237));\r\n    background-repeat: no-repeat;\r\n    background-size: 100%;\r\n    padding-bottom: 25px;\r\n  }\r\n\r\n  .background {\r\n    padding-top: 3%;\r\n    padding-bottom: 13%;\r\n    background: url('assets/files/wall.jpg') no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: 100%;\r\n    height: auto;\r\n  }\r\n\r\n  .required-field {\r\n    color: red;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n</style>\r\n\r\n<div class=\"container-fluid background\">\r\n  <div class=\"row justify-content-center\">\r\n    <div class=\"col-sm-8 col-md-6 col-lg-4\">\r\n      <div class=\"card\">\r\n        <div class=\"card-body shadow-lg grad\">\r\n          <form name=\"departmentForm\">\r\n            <h2 *ngIf=\"!form.data.id\" class=\"text-primary font-weight-bold\" style=\"text-align: center;\">\r\n              {{ 'Add Department' | translate }}\r\n            </h2>\r\n            <h2 *ngIf=\"form.data.id\" class=\"text-primary font-weight-bold\" style=\"text-align: center;\">\r\n              {{ 'Update Department' | translate }}\r\n            </h2>\r\n\r\n            <!-- Form error messages -->\r\n            <div *ngIf=\"form.error && form.message\" class=\"alert alert-danger alert-dismissible fade show\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n            <div *ngIf=\"!form.error && form.message\" class=\"alert alert-success alert-dismissible fade show\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Name' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-id-badge grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"name\" [(ngModel)]=\"form.data.name\" class=\"form-control\"\r\n                  (keydown)=\"filterInput($event, 'errorMessageName', 20, '')\"\r\n                  placeholder=\"{{ 'Enter name' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"errorMessageName\" class=\"alertRedColor\">{{ errorMessageName }}</span>\r\n              <span *ngIf=\"form.inputerror?.name\" class=\"alertRedColor\">{{ form.inputerror.name }}</span>\r\n            </div>\r\n            \r\n            \r\n\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Last Employer Name' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-id-badge grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"lastEmployerName\" [(ngModel)]=\"form.data.lastEmployerName\" class=\"form-control\"\r\n                  (keydown)=\"filterInput($event, 'errorMessageLastEmployerName', 20, '')\"\r\n                  placeholder=\"{{ 'Enter lastEmployerName' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"errorMessageLastEmployerName\" class=\"alertRedColor\">{{ errorMessageLastEmployerName }}</span>\r\n              <span *ngIf=\"form.inputerror?.lastEmployerName\" class=\"alertRedColor\">{{ form.inputerror.lastEmployerName }}</span>\r\n            </div>\r\n            \r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Date of Joining' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-calendar grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"date\" name=\"dateOfJoining\" [value]=\"form.data.dateOfJoining | date:'yyyy-MM-dd'\" class=\"form-control\"\r\n                (input)=\"form.data.dateOfJoining=parseDate($event.target.value)\"\r\n                  placeholder=\"{{ 'Enter dateOfJoining' | translate }}\" required>\r\n              </div>\r\n              \r\n              <span *ngIf=\"form.inputerror?.dateOfJoining\" class=\"alertRedColor\">{{ form.inputerror.dateOfJoining }}</span>\r\n            </div>\r\n\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Amount' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-dollar-sign grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"amount\" [(ngModel)]=\"form.data.amount\" class=\"form-control\"\r\n                  (keydown)=\"filterInput($event, 'errorMessageAmount', 10, 'int')\"\r\n                  placeholder=\"{{ 'Enter  Amount' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"errorMessageAmount\" class=\"alertRedColor\">{{ errorMessageAmount }}</span>\r\n              <span *ngIf=\"form.inputerror?.amount\" class=\"alertRedColor\">{{ form.inputerror.amount }}</span>\r\n            </div>\r\n\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Department Name' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-paint-brush grey-text\"></i></div>\r\n                </div>\r\n                <select class=\"form-control\" name=\"departmentName\" [(ngModel)]=\"form.data.departmentName\" aria-label=\"ngSelected\" required>\r\n                  <option [ngValue]=\"undefined\">{{ 'Select departmentName' | translate }}</option>\r\n                  <option *ngFor=\"let color of form.preload.dnameList\" [value]=\"color.key\">{{ color.value }}</option>\r\n                </select>\r\n              </div>\r\n              <span *ngIf=\"form.inputerror?.departmentName\" class=\"alertRedColor\">{{ form.inputerror.departmentName }}</span>\r\n            </div>\r\n\r\n            <div class=\"row pt-2 pl-2 pb-3\">\r\n  \r\n              <div class=\"col-md-3\"></div>\r\n              \r\n              <div class=\"pt-2\">\r\n                <button *ngIf=\"!form.data.id > 0\" (click)=\"submit()\" class=\"btn btn-success mr-2\">\r\n                  {{ 'Save' | translate }}\r\n                </button>\r\n              </div>\r\n            \r\n              <div class=\"col-md-1\"></div>\r\n            \r\n              <div class=\"pt-2\">\r\n                <button *ngIf=\"form.data.id > 0\" (click)=\"submit()\" class=\"btn btn-success mr-2\">\r\n                  {{ 'Update' | translate }}\r\n                </button>\r\n              </div>\r\n              \r\n              <div class=\"pt-2\">\r\n                <a class=\"btn btn-warning mr-1\" type=\"button\" [routerLink]=\"['/departmentlist']\"\r\n                   style=\"text-decoration: none; color: white;\">\r\n                  {{ 'List' | translate }}\r\n                </a>\r\n              </div>\r\n              \r\n            </div>\r\n            \r\n          </form>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n"
-
-/***/ }),
-
-/***/ "./src/app/department/department.component.ts":
-/*!****************************************************!*\
-  !*** ./src/app/department/department.component.ts ***!
-  \****************************************************/
-/*! exports provided: DepartmentComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DepartmentComponent", function() { return DepartmentComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _base_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base.component */ "./src/app/base.component.ts");
-/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
-
-
-
-
-
-var DepartmentComponent = /** @class */ (function (_super) {
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](DepartmentComponent, _super);
-    function DepartmentComponent(locator, route) {
-        var _this = _super.call(this, locator.endpoints.DEPARTMENT, locator, route) || this;
-        _this.locator = locator;
-        _this.route = route;
-        _this.errorMessageTitle = '';
-        return _this;
-    }
-    DepartmentComponent.prototype.validateForm = function (form) {
-        var flag = true;
-        var validator = this.serviceLocator.dataValidator;
-        flag = flag && validator.isNotNullObject(form.name);
-        flag = flag && validator.isNotNullObject(form.departmentName);
-        flag = flag && validator.isNotNullObject(form.dateOfJoining);
-        flag = flag && validator.isNotNullObject(form.amount);
-        flag = flag && validator.isNotNullObject(form.lastEmployerName);
-        return flag;
-    };
-    DepartmentComponent.prototype.populateForm = function (form, data) {
-        form.id = data.id;
-        form.name = data.name;
-        form.departmentName = data.departmentName;
-        form.dateOfJoining = data.dateOfJoining;
-        form.amount = data.amount;
-        form.lastEmployerName = data.lastEmployerName;
-    };
-    DepartmentComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-department',
-            template: __webpack_require__(/*! ./department.component.html */ "./src/app/department/department.component.html"),
-            styles: [__webpack_require__(/*! ./department.component.css */ "./src/app/department/department.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"]])
-    ], DepartmentComponent);
-    return DepartmentComponent;
-}(_base_component__WEBPACK_IMPORTED_MODULE_2__["BaseCtl"]));
-
-
-
-/***/ }),
-
-/***/ "./src/app/department/departmentlist.component.css":
-/*!*********************************************************!*\
-  !*** ./src/app/department/departmentlist.component.css ***!
-  \*********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2RlcGFydG1lbnQvZGVwYXJ0bWVudGxpc3QuY29tcG9uZW50LmNzcyJ9 */"
-
-/***/ }),
-
-/***/ "./src/app/department/departmentlist.component.html":
-/*!**********************************************************!*\
-  !*** ./src/app/department/departmentlist.component.html ***!
-  \**********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  #nnn {\r\n    background: none;\r\n    border: none;\r\n    cursor: pointer;\r\n  }\r\n\r\n  .panel-heading {\r\n    height: 50px;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n  }\r\n\r\n  .search-inputs {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .form-control,\r\n  .search-inputs .btn {\r\n    margin-bottom: 10px;\r\n  }\r\n\r\n  .content-wrapper {\r\n    background: url('assets/files/teahu.png') no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: auto;\r\n    height: 105vh;\r\n    padding: 20px;\r\n  }\r\n\r\n  .table-responsive {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .col-sm-2,\r\n  .search-inputs .col-sm-1 {\r\n    padding: 0 5px;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n</style>\r\n<div class=\"content-wrapper\">\r\n  <div class=\"container-fluid\">\r\n    <div class=\"panel panel-primary\">\r\n      <div class=\"panel-heading\">\r\n        <h1 class=\"text-primary font-weight-bold\">{{ 'Department List' | translate }}</h1>\r\n      </div>\r\n\r\n      <div class=\"row search-inputs p-1 justify-content-center\">\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"text\" name=\"name\" [(ngModel)]=\"form.searchParams.name\" class=\"form-control\"\r\n          (keydown)=\"filterInput($event, 'errorMessageName', 20, 'char')\"\r\n            placeholder=\"{{ 'Enter Name' | translate }}\">\r\n            <span *ngIf=\"errorMessageName\" class=\"alertRedColor\">{{ errorMessageName }}</span>\r\n        </div>\r\n        \r\n        \r\n        \r\n\r\n\r\n\r\n        <div class=\"row search-inputs p-1 justify-content-center\">\r\n          <div class=\"col-sm-2\">\r\n            <input type=\"text\" name=\"lastEmployerName\" [(ngModel)]=\"form.searchParams.lastEmployerName\" class=\"form-control\"\r\n            (keydown)=\"filterInput($event, 'errorMessageLastEmployerName', 20, 'char')\"\r\n              placeholder=\"{{ 'Enter LastEmployerName' | translate }}\">\r\n              <span *ngIf=\"errorMessageLastEmployerName\" class=\"alertRedColor\">{{ errorMessageLastEmployerName }}</span>\r\n          </div>\r\n  \r\n        <div class=\"col-sm-2\">\r\n          <input type=\"date\" name=\"dateOfJoining\" [(ngModel)]=\"form.searchParams.dateOfJoining\" class=\"form-control\"\r\n            placeholder=\"{{ 'Enter dateOfJoining' | translate }}\">\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"text\" name=\"amount\" [(ngModel)]=\"form.searchParams.amount\" class=\"form-control\"\r\n            (keydown)=\"filterInput($event, 'errorMessageAmount', 10, 'int')\"\r\n            placeholder=\"{{ 'Enter Amount' | translate }}\">\r\n          <span *ngIf=\"errorMessageAmount\" class=\"alertRedColor\">{{ errorMessageAmount }}</span>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <select class=\"form-control\" name=\"departmentName\" [(ngModel)]=\"form.searchParams.departmentName\" aria-label=\"ngSelected\" required>\r\n            <option [ngValue]=\"undefined\">{{ 'Select departmentName' | translate }}</option>\r\n            <option *ngFor=\"let color of form.preload.dnameList\" [value]=\"color.key\">{{ color.value }}</option>\r\n          </select>\r\n          \r\n        </div>\r\n\r\n        <div class=\"col-sm-1\">\r\n          <button (click)=\"submit()\" class=\"btn btn-primary\">{{ 'Search' | translate }}</button>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <button (click)=\"forward('/department')\" type=\"button\" class=\"btn btn-success\">\r\n            {{ 'Add Department' | translate }}\r\n          </button>\r\n        </div>\r\n\r\n        <div class=\"col-sm-1\">\r\n          <button (click)=\"deleteMany()\" class=\"btn btn-danger\">{{ 'Delete' | translate }}</button>\r\n        </div>\r\n      </div>\r\n\r\n      <div *ngIf=\"form.error\" class=\"alert alert-danger alert-dismissible\">\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n        {{ form.message }}\r\n      </div>\r\n\r\n      <div *ngIf=\"!form.error && form.message != null\" class=\"alert alert-success alert-dismissible\">\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n        {{ form.message }}\r\n      </div>\r\n\r\n      <div class=\"table-responsive\">\r\n        <table class=\"table table-bordered table-hover font-weight-bold text-dark\">\r\n          <thead class=\"thead-dark text-uppercase\">\r\n            <tr align=\"center\">\r\n              <th><input type=\"checkbox\" [(ngModel)]=\"isMasterSel\" name=\"list_name\"\r\n                  (change)=\"checkUncheckAll($event)\" /></th>\r\n              <th>{{ 'S.No' | translate }}</th>\r\n              <th>{{ 'Name' | translate }}</th>\r\n              <th>{{ 'Date of Joining' | translate }}</th>\r\n              <th>{{ 'Amount' | translate }}</th>\r\n              <th>{{ 'Department Name' | translate }}</th>\r\n              <th>{{ 'Last Employer name' | translate }}</th>\r\n              <th>{{ 'Edit' | translate }}</th>\r\n            </tr>\r\n          </thead>\r\n          <tbody>\r\n            <tr *ngFor=\"let m of form.list; let i = index\" align=\"center\">\r\n              <td><input type=\"checkbox\" #checkboxes (change)=\"checklistUpdate()\" name=\"list_name\" [id]=\"m.id\" /></td>\r\n              <td>{{ (form.pageNo * 5) + i + 1 }}</td>\r\n              <td>{{ m.name }}</td>\r\n              <td>{{ m.dateOfJoining | date:'yyyy-MM-dd' }}</td>\r\n              <td>{{ m.amount }}</td>\r\n              <td>{{ findSelValueByKey(m.departmentName ,form.preload.dnameList) }}</td>\r\n              <td>{{ m.lastEmployerName }}</td>\r\n            \r\n\r\n              <td>\r\n                <button class=\"fa fa-edit text-primary\" id=\"nnn\" (click)=\"forward('/department/' + m.id)\">\r\n                </button>\r\n              </td>\r\n            </tr>\r\n          </tbody>\r\n        </table>\r\n\r\n        <div class=\"d-flex justify-content-between mt-3\">\r\n          <button (click)=\"previous()\" [disabled]=\"form.pageNo == 0\" class=\"btn btn-info\">{{ 'Previous' | translate }}</button>\r\n\r\n          <div>\r\n            <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/departmentlist']\" (click)=\"exit()\">\r\n              {{ 'Reset' | translate }}\r\n            </a>\r\n          </div>\r\n\r\n          <div *ngIf=\"form.list.length == 0\">\r\n            <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/departmentlist']\" (click)=\"exit()\">\r\n              {{ 'Back' | translate }}\r\n            </a>\r\n          </div>\r\n\r\n          \r\n          <button (click)=\"next()\" [disabled]=\"nextList == 0\" class=\"btn btn-info\">{{ 'Next' | translate }}</button>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n"
-
-/***/ }),
-
-/***/ "./src/app/department/departmentlist.component.ts":
-/*!********************************************************!*\
-  !*** ./src/app/department/departmentlist.component.ts ***!
-  \********************************************************/
-/*! exports provided: DepartmentlistComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DepartmentlistComponent", function() { return DepartmentlistComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _base_list_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base-list.component */ "./src/app/base-list.component.ts");
-/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
-
-
-
-
-
-
-var DepartmentlistComponent = /** @class */ (function (_super) {
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](DepartmentlistComponent, _super);
-    function DepartmentlistComponent(locator, route, httpClient) {
-        var _this = _super.call(this, locator.endpoints.DEPARTMENT, locator, route) || this;
-        _this.locator = locator;
-        _this.route = route;
-        _this.httpClient = httpClient;
-        _this.myKey = "";
-        _this.form = {
-            error: false,
-            message: null,
-            preload: [],
-            data: { id: null },
-            inputerror: {},
-            searchParams: {},
-            searchMessage: null,
-            list: [],
-            pageNo: 0
-        };
-        return _this;
-    }
-    DepartmentlistComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-departmentlist',
-            template: __webpack_require__(/*! ./departmentlist.component.html */ "./src/app/department/departmentlist.component.html"),
-            styles: [__webpack_require__(/*! ./departmentlist.component.css */ "./src/app/department/departmentlist.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"], _angular_common_http__WEBPACK_IMPORTED_MODULE_5__["HttpClient"]])
-    ], DepartmentlistComponent);
-    return DepartmentlistComponent;
-}(_base_list_component__WEBPACK_IMPORTED_MODULE_2__["BaseListCtl"]));
-
-
-
-/***/ }),
-
 /***/ "./src/app/endpoint-service.service.ts":
 /*!*********************************************!*\
   !*** ./src/app/endpoint-service.service.ts ***!
@@ -3031,6 +2419,7 @@ var EndpointServiceService = /** @class */ (function () {
         this.REGION = this.SERVER_URL + "/Region";
         this.FOLLOWUP = this.SERVER_URL + "/FollowUp";
         this.CLIENT = this.SERVER_URL + "/Client";
+        this.XYZ = this.SERVER_URL + "/Xyz";
     }
     EndpointServiceService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
@@ -3713,241 +3102,6 @@ var HttpServiceService = /** @class */ (function () {
     ], HttpServiceService);
     return HttpServiceService;
 }());
-
-
-
-/***/ }),
-
-/***/ "./src/app/iteminformation/iteminformation.component.css":
-/*!***************************************************************!*\
-  !*** ./src/app/iteminformation/iteminformation.component.css ***!
-  \***************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2l0ZW1pbmZvcm1hdGlvbi9pdGVtaW5mb3JtYXRpb24uY29tcG9uZW50LmNzcyJ9 */"
-
-/***/ }),
-
-/***/ "./src/app/iteminformation/iteminformation.component.html":
-/*!****************************************************************!*\
-  !*** ./src/app/iteminformation/iteminformation.component.html ***!
-  \****************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<app-navbar></app-navbar>\r\n<style>\r\n  .grad {\r\n    background-image: linear-gradient(to bottom right, rgb(32, 168, 168), rgb(219, 231, 237));\r\n    background-repeat: no-repeat;\r\n    background-size: 100%;\r\n    padding-bottom: 25px;\r\n  }\r\n\r\n  .input-group-addon {\r\n    box-shadow: 9px 8px 7px #001a33;\r\n  }\r\n\r\n  .required-field {\r\n    color: red;\r\n    font-weight: bold;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n\r\n  .card-body {\r\n    padding: 2rem;\r\n  }\r\n\r\n  .input-group-text i {\r\n    width: 1.5rem;\r\n  }\r\n\r\n  .btn-primary,\r\n  .btn-success,\r\n  .btn-warning {\r\n    width: 100%;\r\n  }\r\n\r\n  .form-control {\r\n    height: calc(2.25rem + 2px);\r\n  }\r\n\r\n  .form-group {\r\n    margin-bottom: 1.5rem;\r\n  }\r\n\r\n  .input-group-prepend .input-group-text {\r\n    background-color: #e9ecef;\r\n    border: 1px solid #ced4da;\r\n  }\r\n\r\n  .input-group-prepend .input-group-text i {\r\n    color: #495057;\r\n  }\r\n\r\n  .row {\r\n    margin-left: 0;\r\n    margin-right: 0;\r\n  }\r\n\r\n  .textarea-height {\r\n    height: 100px;\r\n  }\r\n\r\n  .card {\r\n    margin: auto;\r\n    max-width: 500px;\r\n  }\r\n</style>\r\n\r\n<div class=\"container-fluid\"\r\n  style=\"padding: 2% 0; background: url('assets/files/wall.jpg') no-repeat center center; background-attachment: fixed; background-size: cover; width: 100%; height: auto;\">\r\n  <div class=\"row justify-content-center\">\r\n    <div class=\"col-md-6\">\r\n      <div class=\"card\">\r\n        <div class=\"card-body input-group-addon grad\">\r\n          <form name=\"userForm\">\r\n            <h2 *ngIf=\"!form.data.id\" class=\"text-primary font-weight-bold text-center\">{{ 'Add ItemInfromation' |\r\n              translate }}\r\n            </h2>\r\n            <h2 *ngIf=\"form.data.id\" class=\"text-primary font-weight-bold text-center\">{{ 'Update ItemInfromation' |\r\n              translate }}\r\n            </h2>\r\n\r\n            <div *ngIf=\"!form.error && form.message\" class=\"alert alert-success alert-dismissible\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n\r\n            <div *ngIf=\"form.error && form.message\" class=\"alert alert-danger alert-dismissible\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n\r\n\r\n\r\n            <div class=\"form-group\">\r\n              <label><b>{{ 'Catagory' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-flag grey-text\"></i></div>\r\n                </div>\r\n                <select class=\"form-control\" name=\"catagoryId\" [(ngModel)]=\"form.data.catagoryId\"\r\n                  aria-label=\"ngSelected\" >  \r\n                  <option [ngValue]=\"undefined\">{{ 'Select catagory' | translate }}</option>\r\n                  <option *ngFor=\"let obj of form.preload.ItemInformationList  | keyvalue\" [value]=\"obj.key\">{{obj.value}}</option>\r\n                </select>\r\n              </div>\r\n              <span *ngIf=\"form.inputerror.catagoryId\" class=\"alertRedColor\">{{form.inputerror.catagoryId}}</span>\r\n            </div>\r\n\r\n\r\n        \r\n\r\n            <div class=\"form-group\">\r\n              <label><b>{{ ' Cost' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-user grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"cost\" [(ngModel)]=\"form.data.cost\" class=\"form-control\"\r\n                  placeholder=\"{{ 'Enter cost' | translate }}\"   (keydown)=\"filterInput($event, 'errorMessagecost',20, 'double')\" >\r\n              </div>\r\n              <span *ngIf=\"form.inputerror.cost\" class=\"alertRedColor\">{{form.inputerror.cost}}</span>\r\n              <span *ngIf=\"errorMessagecost\" class=\"alertRedColor\">{{errorMessagecost}}</span>\r\n            </div>\r\n\r\n\r\n\r\n\r\n            <div class=\"form-group\">\r\n              <label><b>{{ 'Title' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-user grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"title\" [(ngModel)]=\"form.data.title\" class=\"form-control\"\r\n                  placeholder=\"{{ 'Enter title' | translate }}\" (keydown)=\"filterInput($event, 'errorMessagetitle', 20, 'char')\">\r\n              </div>\r\n              <span *ngIf=\"form.inputerror?.title\" class=\"alertRedColor\">{{ form.inputerror.title }}</span>\r\n              <span *ngIf=\"errorMessagetitle\" class=\"alertRedColor\">{{ errorMessagetitle }}</span>\r\n            </div>\r\n            \r\n            <div class=\"form-group\">\r\n              <label><b>{{ 'Overview' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-user grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"overview\" [(ngModel)]=\"form.data.overview\" class=\"form-control\"\r\n                  placeholder=\"{{ 'Enter overview' | translate }}\" (keydown)=\"filterInput($event, 'errorMessageoverview', 200, 'char')\">\r\n              </div>\r\n              <span *ngIf=\"form.inputerror?.overview\" class=\"alertRedColor\">{{ form.inputerror.overview }}</span>\r\n              <span *ngIf=\"errorMessageoverview\" class=\"alertRedColor\">{{ errorMessageoverview }}</span>\r\n            </div>\r\n            \r\n         \r\n\r\n\r\n\r\n            <div class=\"form-group\">\r\n              <label><b>{{ 'Purchess Date' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"far fa-calendar-alt\"></i></div>\r\n                </div>\r\n                <input type=\"date\" name=\"purchessDate\" [value]=\"form.data.purchessDate | date:'yyyy-MM-dd'\" (input)=\"form.data.purchessDate=parseDate($event.target.value)\" class=\"form-control\" required />\r\n              </div>\r\n              <span *ngIf=\"form.inputerror.purchessDate\" class=\"alertRedColor\">{{ form.inputerror.purchessDate }}</span>\r\n            </div>\r\n\r\n\r\n\r\n\r\n           \r\n          \r\n\r\n            <div class=\"row pt-2 pb-3 justify-content-center\">\r\n              <div class=\"col-md-4\">\r\n                <button *ngIf=\"!form.data.id\" (click)=\"onUpload()\" class=\"btn btn-success\">{{ 'Save' | translate\r\n                  }}</button>\r\n              </div>\r\n              <div class=\"col-md-4\">\r\n                <button *ngIf=\"form.data.id\" (click)=\"onUpload()\" class=\"btn btn-success\">{{ 'Update' | translate\r\n                  }}</button>\r\n              </div>\r\n              <div class=\"col-md-4\">\r\n                <a class=\"btn btn-warning\" type=\"button\" [routerLink]=\"['/iteminformationlist']\">{{ 'List' | translate\r\n                  }}</a>\r\n              </div>\r\n            </div>\r\n          </form>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n<app-footer></app-footer>\r\n\r\n"
-
-/***/ }),
-
-/***/ "./src/app/iteminformation/iteminformation.component.ts":
-/*!**************************************************************!*\
-  !*** ./src/app/iteminformation/iteminformation.component.ts ***!
-  \**************************************************************/
-/*! exports provided: IteminformationComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "IteminformationComponent", function() { return IteminformationComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _base_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base.component */ "./src/app/base.component.ts");
-/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
-
-
-
-
-
-
-var IteminformationComponent = /** @class */ (function (_super) {
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](IteminformationComponent, _super);
-    function IteminformationComponent(locator, route, httpClient) {
-        var _this = _super.call(this, locator.endpoints.ITEMINFORMATION, locator, route) || this;
-        _this.locator = locator;
-        _this.route = route;
-        _this.httpClient = httpClient;
-        _this.getKey = false;
-        _this.selected = null;
-        _this.userForm = null;
-        return _this;
-    }
-    IteminformationComponent.prototype.parseDate = function (dateString) {
-        if (dateString) {
-            return new Date(dateString);
-        }
-        return null;
-    };
-    IteminformationComponent.prototype.test = function () {
-    };
-    IteminformationComponent.prototype.submit = function () {
-        var _self = this;
-        this.serviceLocator.httpService.post(this.api.save, this.form.data, function (res) {
-            _self.form.message = '';
-            _self.form.inputerror = {};
-            if (res.success) {
-                _self.form.error = false;
-                _self.form.message = "Data is saved";
-                _self.form.data.id = res.result.data;
-            }
-            else {
-                _self.form.error = true;
-                if (res.result.inputerror) {
-                    _self.form.inputerror = res.result.inputerror;
-                }
-                _self.form.message = res.result.message;
-            }
-        });
-    };
-    IteminformationComponent.prototype.onUpload = function (userform) {
-        this.submit();
-    };
-    IteminformationComponent.prototype.populateForm = function (form, data) {
-        form.id = data.id;
-        form.purchessDate = data.purchessDate;
-        form.title = data.title;
-        form.overview = data.overview;
-        form.catagoryId = data.catagoryId;
-        form.cost = data.cost;
-    };
-    IteminformationComponent.prototype.validateAlphabetInput = function (event) {
-        var str = event.key;
-        console.log(str);
-        if (!/^[a-zA-Z\s]*$/.test(str)) {
-            event.preventDefault();
-        }
-    };
-    IteminformationComponent.prototype.validateNumericInput = function (event) {
-        var str = event.key;
-        console.log(str);
-        if (!/^\d$/.test(str)) {
-            event.preventDefault();
-        }
-    };
-    IteminformationComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-iteminformation',
-            template: __webpack_require__(/*! ./iteminformation.component.html */ "./src/app/iteminformation/iteminformation.component.html"),
-            styles: [__webpack_require__(/*! ./iteminformation.component.css */ "./src/app/iteminformation/iteminformation.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"], _angular_common_http__WEBPACK_IMPORTED_MODULE_5__["HttpClient"]])
-    ], IteminformationComponent);
-    return IteminformationComponent;
-}(_base_component__WEBPACK_IMPORTED_MODULE_2__["BaseCtl"]));
-
-
-
-/***/ }),
-
-/***/ "./src/app/iteminformation/iteminformationlist.component.css":
-/*!*******************************************************************!*\
-  !*** ./src/app/iteminformation/iteminformationlist.component.css ***!
-  \*******************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2l0ZW1pbmZvcm1hdGlvbi9pdGVtaW5mb3JtYXRpb25saXN0LmNvbXBvbmVudC5jc3MifQ== */"
-
-/***/ }),
-
-/***/ "./src/app/iteminformation/iteminformationlist.component.html":
-/*!********************************************************************!*\
-  !*** ./src/app/iteminformation/iteminformationlist.component.html ***!
-  \********************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  #nnn {\r\n    background: none;\r\n    border: none;\r\n    cursor: pointer;\r\n  }\r\n\r\n  .panel-heading {\r\n    height: 50px;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n  }\r\n\r\n  .search-inputs {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .form-control,\r\n  .search-inputs .btn {\r\n    margin-bottom: 10px;\r\n  }\r\n\r\n  .content-wrapper {\r\n    background: url(assets/files/wall.jpg) no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: auto;\r\n    height: 105vh;\r\n    padding: 20px;\r\n  }\r\n\r\n  .table-responsive {\r\n    margin-top: 20px;\r\n  }\r\n</style>\r\n\r\n<div class=\"content-wrapper\">\r\n  <div class=\"container-fluid\">\r\n    <div class=\"panel panel-primary\">\r\n      <div class=\"panel-heading\">\r\n        <h1 class=\"text-primary font-weight-bold\">{{ 'ItemInformation List' | translate }}</h1>\r\n      </div>\r\n    </div>\r\n\r\n    <!-- Search Inputs Section -->\r\n    <div class=\"row search-inputs\">\r\n      <div class=\"col-md-3\">\r\n        <input type=\"date\" class=\"form-control\" [(ngModel)]=\"form.searchParams.purchessDate\"\r\n          (ngModelChange)=\"formatDate($event)\" placeholder=\"{{ 'Search purchessDate' | translate }}\">\r\n      </div>\r\n\r\n      <div class=\"col-md-3\">\r\n        <input type=\"text\" class=\"form-control\" [(ngModel)]=\"form.searchParams.title\"\r\n          placeholder=\"{{ 'Search title' | translate }}\"   (keydown)=\"filterInput($event, 'errorMessagetitle', 20, 'char')\">\r\n          <span *ngIf=\"errorMessagetitle\" style=\"color: red;\">{{errorMessagetitle}}</span>\r\n      </div>\r\n\r\n      <div class=\"col-md-3\">\r\n        <input type=\"text\" class=\"form-control\" [(ngModel)]=\"form.searchParams.overview\"\r\n          placeholder=\"{{ 'Search overview' | translate }}\"   (keydown)=\"filterInput($event, 'errorMessageoverview', 200, 'char')\">\r\n          <span *ngIf=\"errorMessageoverview\" style=\"color: red;\">{{errorMessageoverview}}</span>\r\n      </div>\r\n\r\n      <div class=\"col-md-3\">\r\n        <input type=\"text\" class=\"form-control\" [(ngModel)]=\"form.searchParams.cost\"\r\n          placeholder=\"{{ 'Search cost' | translate }}\"   (keydown)=\"filterInput($event, 'errorMessagecost', 20, 'double')\">\r\n          <span *ngIf=\"errorMessagecost\" style=\"color: red;\">{{errorMessagecost}}</span>\r\n      </div>\r\n\r\n      <div class=\"col-md-3\">\r\n        <select class=\"form-control\" name=\"catagoryId\" [(ngModel)]=\"form.searchParams.catagoryId\"\r\n          aria-label=\"ngSelected\">\r\n          <option [ngValue]=\"null\">{{ 'Select catagoryId' | translate }}</option>\r\n          <option *ngFor=\"let obj of form.preload.ItemInformationList | keyvalue\" [ngValue]=\"obj.key\">\r\n            {{ obj.value }}\r\n          </option>\r\n        </select>\r\n      </div>\r\n    </div>\r\n\r\n\r\n    <div class=\"row mt-2 justify-content-center\">\r\n      <div class=\"col-md-2\">\r\n        <button (click)=\"submit()\" class=\"btn btn-primary btn-block\">{{ 'Search' | translate }}</button>\r\n      </div>\r\n      <div class=\"col-md-2\">\r\n        <button (click)=\"forward('/iteminformation')\" type=\"button\" class=\"btn btn-success btn-block\">\r\n          {{ 'Add Iteminformation' | translate }}\r\n        </button>\r\n      </div>\r\n      <div class=\"col-md-2\">\r\n        <button (click)=\"deleteMany()\" class=\"btn btn-danger btn-block\">{{ 'Delete' | translate }}</button>\r\n      </div>\r\n    </div>\r\n\r\n  \r\n    <div *ngIf=\"form.error || form.message\" class=\"row mt-2 justify-content-center\">\r\n      <div class=\"col-md-6\">\r\n        <div *ngIf=\"form.error\" class=\"alert alert-danger alert-dismissible\">\r\n          <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n          {{ form.message }}\r\n        </div>\r\n        <div *ngIf=\"!form.error && form.message\" class=\"alert alert-success alert-dismissible\">\r\n          <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n          {{ form.message }}\r\n        </div>\r\n      </div>\r\n    </div>\r\n\r\n    <div class=\"table-responsive mt-3\">\r\n      <table class=\"table table-bmedicationed table-hover font-weight-bold text-dark\">\r\n        <thead class=\"thead-dark text-uppercase\">\r\n          <tr align=\"center\">\r\n            <th>\r\n              <input type=\"checkbox\" [(ngModel)]=\"isMasterSel\" name=\"list_name\"\r\n                (change)=\"checkUncheckAll($event)\" />\r\n            </th>\r\n            <th>{{ 'S.No' }}</th>\r\n            <th>{{ 'Title' }}</th>\r\n            <th>{{ 'Overview' }}</th>\r\n            <th>{{ 'PurchessDate' }}</th>\r\n            <th>{{ 'Catagory' }}</th>\r\n            <th>{{ 'Cost' }}</th>\r\n            <th>{{ 'Edit' }}</th>\r\n          </tr>\r\n        </thead>\r\n        <tbody>\r\n          <tr *ngFor=\"let m of form.list; let i = index\" align=\"center\">\r\n            <td>\r\n              <input type=\"checkbox\" #checkboxes (change)=\"checklistUpdate()\" name=\"list_name\" [id]=\"m.id\" />\r\n            </td>\r\n            <td>{{ (form.pageNo * 5) + i + 1 }}</td>\r\n            <td>{{ m.title }}</td>\r\n            <td>{{ m.overview }}</td>\r\n            <td>{{ convertToLocalDate(m.purchessDate) }}</td>\r\n            <td>{{ form.preload.ItemInformationList[m.catagoryId] }}</td>\r\n            <td>{{ m.cost }}</td>\r\n            \r\n            <td>\r\n              <button class=\"fa fa-edit text-primary\" id=\"nnn\" (click)=\"forward('/iteminformation/' + m.id)\"></button>\r\n            </td>\r\n          </tr>\r\n        </tbody>\r\n      </table>\r\n    </div>\r\n\r\n   \r\n    <div class=\"d-flex justify-content-between mt-3\">\r\n      <button (click)=\"previous()\" [disabled]=\"form.pageNo == 0\" class=\"btn btn-info\">\r\n        {{ 'Previous' | translate }}\r\n      </button>\r\n      <div *ngIf=\"form.list.length == 0\">\r\n        <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/iteminformationlist']\" (click)=\"exit()\">\r\n          {{ 'Back' | translate }}\r\n        </a>\r\n      </div>\r\n      <button (click)=\"next()\" [disabled]=\"nextList == 0\" class=\"btn btn-info\">\r\n        {{ 'Next' | translate }}\r\n      </button>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n\r\n\r\n"
-
-/***/ }),
-
-/***/ "./src/app/iteminformation/iteminformationlist.component.ts":
-/*!******************************************************************!*\
-  !*** ./src/app/iteminformation/iteminformationlist.component.ts ***!
-  \******************************************************************/
-/*! exports provided: IteminformationlistComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "IteminformationlistComponent", function() { return IteminformationlistComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _base_list_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base-list.component */ "./src/app/base-list.component.ts");
-/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
-
-
-
-
-
-
-var IteminformationlistComponent = /** @class */ (function (_super) {
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](IteminformationlistComponent, _super);
-    function IteminformationlistComponent(locator, route, httpClient) {
-        var _this = _super.call(this, locator.endpoints.ITEMINFORMATION, locator, route) || this;
-        _this.locator = locator;
-        _this.route = route;
-        _this.httpClient = httpClient;
-        _this.form = {
-            error: false,
-            message: null,
-            preload: {
-                ItemInformationList: []
-            },
-            data: { id: null },
-            searchParams: {
-                title: '',
-                overview: '',
-                purchessDate: '',
-                catagoryId: null,
-                cost: ''
-            },
-            searchMessage: null,
-            list: [],
-            pageNo: 0
-        };
-        return _this;
-    }
-    IteminformationlistComponent.prototype.ngOnInit = function () {
-        _super.prototype.ngOnInit.call(this);
-    };
-    IteminformationlistComponent.prototype.validateNumericInput = function (event) {
-        var str = event.key;
-        console.log(str);
-        if (!/^\d$/.test(str)) {
-            event.preventDefault();
-        }
-    };
-    IteminformationlistComponent.prototype.validateAlphabetInput = function (event) {
-        console.log(event);
-        var str = event.key;
-        console.log(str);
-        if (!/^[a-zA-Z\s]*$/.test(str)) {
-            event.preventDefault();
-        }
-    };
-    IteminformationlistComponent.prototype.submit = function () {
-        this.form.pageNo = 0;
-        this.search();
-    };
-    IteminformationlistComponent.prototype.search = function () {
-        this.form.searchMessage = null;
-        _super.prototype.search.call(this);
-    };
-    IteminformationlistComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-iteminformationlist',
-            template: __webpack_require__(/*! ./iteminformationlist.component.html */ "./src/app/iteminformation/iteminformationlist.component.html"),
-            styles: [__webpack_require__(/*! ./iteminformationlist.component.css */ "./src/app/iteminformation/iteminformationlist.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"], _angular_common_http__WEBPACK_IMPORTED_MODULE_5__["HttpClient"]])
-    ], IteminformationlistComponent);
-    return IteminformationlistComponent;
-}(_base_list_component__WEBPACK_IMPORTED_MODULE_2__["BaseListCtl"]));
 
 
 
@@ -4950,7 +4104,7 @@ module.exports = "navbar{\r\n    position: fixed;\r\n    top: 0px;\r\n    height
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<style type=\"text/css\">\r\n  .Suraj{\r\n  background-image : linear-gradient(to bottom right, #00008B, rgb(219, 231, 237));}\r\n\r\n  .c1{\r\ncolor: rgb(235, 6, 6);\r\n  }\r\n  </style>\r\n\r\n<div class=\"header\">\r\n  <nav *ngIf=\"!isLogin()\" class=\"navbar navbar-expand-lg Suraj\">\r\n    <div class=\"logo\">\r\n      <a class=\"nav-link\" [routerLink]=\"['/dashboard']\">\r\n        <!-- <strong class=\"text-white\">Rays</strong> -->\r\n        <img src=\"assets\\files\\custom.png\" height=\"40px\" width=\"120px\">\r\n      </a>  \r\n    </div>\r\n    <select #locale (change)='changeLocale(locale.value)'class=\"c1\" >\r\n       <option value=\"en\">{{'Select Language' | translate }}</option> \r\n      \r\n      <option value=\"en\" style=\"color: red;\">English</option>\r\n      <option value=\"hi\"style=\"color: red;\">{{'Hindi' | translate }}</option>\r\n    </select>\r\n\r\n\r\n    <button class=\"navbar-toggler navbar-light\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNav\"\r\n      aria-controls=\"navbarNav\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n      <span class=\"navbar-toggler-icon\"></span>\r\n    </button>\r\n\r\n    <div class=\"collapse navbar-collapse\" id=\"navbarNav\" style=\"font-size: 15px;\">\r\n      <ul class=\"navbar-nav ml-auto\" style=\"padding-right: 6.5%;\">\r\n        \r\n        <li class=\"nav-item dropdown\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['myNav']\" id=\"navbarDropdown\" role=\"button\"\r\n            data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n            <font style=\"color: white;\">{{'Hi,Guest'| translate}}\r\n            </font>\r\n          </a>\r\n\r\n          <div class=\"dropdown-menu\" id=\"myNav\" aria-labelledby=\"navbarDropdown\">\r\n            <a class=\"dropdown-item\" [routerLink]=\"['/login']\"><i class=\"fa fa-user\"></i> &nbsp; &nbsp; &nbsp; {{'Log in' | translate}}</a>\r\n            <a class=\"dropdown-item\" [routerLink]=\"['/signup']\"><i class=\" fa fa-users\"></i> &nbsp; {{'User Registration' |\r\n              translate}}</a>\r\n          </div>\r\n        </li>\r\n        <li>\r\n\r\n        </li>\r\n      </ul>\r\n    </div>\r\n  \r\n  </nav>\r\n</div>\r\n\r\n\r\n<nav *ngIf=\"isLogin()\" class=\"navbar navbar-expand-lg Suraj\">\r\n\r\n  <div class=\"logo\">\r\n    <a class=\"nav-link\" [routerLink]=\"['/dashboard']\">\r\n      <!-- <strong class=\"text-white\">Rays</strong> -->\r\n      <img src=\"assets\\files\\custom.png\" height=\"40px\" width=\"120px\">\r\n    </a>\r\n  </div>\r\n  <!-- <strong class=\"text-white\">NCS Pvt Ltd</strong> -->\r\n\r\n\r\n  <select #locale (click)='changeLocale(locale.value)'>\r\n     <option value=\"en\">{{'Select Language' | translate }}</option>\r\n    <option value=\"en\">English</option>\r\n    <option value=\"hi\">{{'Hindi' | translate }}</option>\r\n  </select>\r\n\r\n\r\n  <button class=\"navbar-toggler navbar-light\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNav\"\r\n    aria-controls=\"navbarNav\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n    <span class=\"navbar-toggler-icon\"></span>\r\n  </button>\r\n  <div class=\"collapse navbar-collapse\" id=\"navbarNav\">\r\n\r\n\r\n    <div class=\"col-sm-2\"></div>\r\n\r\n\r\n\r\n    <ul class=\"nav navbar-nav pl-2 \">\r\n\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px;\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'User' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/user']\"><i class=\"fa fa-user\"></i> &nbsp; &nbsp;{{'Add User' |\r\n            translate}}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/userlist']\"><i class=\"fa fa-list\"></i>&nbsp; {{'User List' | translate}}</a>\r\n        </div>\r\n      </li>\r\n<li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Marksheet' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/marksheet']\"><i class=\"fa fa-file\"></i> &nbsp; {{'Add Marksheet' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/marksheetlist']\"><i class=\"fa fa-paste\"></i> &nbsp;\r\n            {{'Marksheet List' | translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/marksheetmeritlist']\"><i\r\n              class=\" fa fa-list\"></i> &nbsp; {{'Marksheet Merit List' | translate}} </a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/getmarksheet']\"><i class=\"fa fa-copy\"></i> &nbsp; {{'Get Marksheet' |\r\n            translate}}</a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Role' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/role']\"><i class=\"fa fa-user\"></i> &nbsp; &nbsp; {{'Add Role' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/rolelist']\"><i class=\"fa fa-users\"></i> &nbsp; {{'Role List' |\r\n            translate}}</a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'College' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/college']\"><i class=\"fa fa-university\"></i> &nbsp; {{'Add College' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/collegelist']\"><i class=\"fa fa-building\"></i> &nbsp;\r\n            {{'College List' | translate}} </a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Course' | translate}}\r\n          </font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/course']\"><i class=\"fa fa-book\"></i> &nbsp; {{'Add Course' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/courselist']\"><i class=\"fa fa-list\"></i> &nbsp; {{'Course List'\r\n            | translate}} </a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Student' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/student']\"><i class=\"fa fa-user\"></i> &nbsp; {{'Add Student' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/studentlist']\"><i class=\"fa fa-users\"></i> &nbsp; {{'Student\r\n            List' | translate}}</a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Faculty' | translate}}\r\n          </font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/faculty']\"><i class=\"fa fa-users\"></i> &nbsp; {{'Add Faculty' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/facultylist']\"><i class=\" fa fa-list\"></i> &nbsp; {{'Faculty\r\n            List' | translate}}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'TimeTable' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/timetable']\"><i class=\"fa fa-clock-o\"></i> &nbsp; {{'Add TimeTable'\r\n            | translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/timetablelist']\"><i class=\"fa fa-list\"></i> &nbsp;\r\n            {{'TimeTable List' | translate}}</a>\r\n        </div>\r\n      </li>\r\n\r\n\r\n      <!-- <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n        id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" a\r\n        ria-expanded=\"false\">\r\n        <font style=\"color: white;\">{{'customer' | translate}}</font>\r\n      </a>\r\n      <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n        <a class=\"dropdown-item\" [routerLink]=\"['/customer']\"><i class=\"fa fa-clock-o\"></i> &nbsp; {{'Add Customer'\r\n          | translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/customerlist']\"><i class=\"fa fa-list\"></i> &nbsp;\r\n          {{'customer List' | translate}}</a>\r\n      </div>\r\n    </li>\r\n    -->\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Subject' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/subject']\"><i class=\"fa fa-calculator\"></i> &nbsp; {{'Add Subject' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/subjectlist']\"> <i class=\"fa fa-list\"></i> &nbsp; {{'Subject\r\n            List' | translate}}\r\n          </a>\r\n        </div>\r\n      </li>\r\n\r\n      <!-- <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Asset' | translate }}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/asset']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Asset' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/assetlist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Asset List' | translate }}</a>\r\n        </div>\r\n      </li> -->\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Client' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/client']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Client' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/clientlist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Client List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <!-- <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Stock analysis' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/stockanalysis']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Stock analysis' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/stockanalysislist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Stock analysis List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Portfolio' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/portfolio']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Portfolio' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/portfoliolist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Portfolio List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Region' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/region']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Region' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/regionlist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Region List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n\r\n      \r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Follow UP' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/followup']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Follow UP' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/followuplist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Follow UP List' | translate }}</a>\r\n        </div>\r\n      </li> -->\r\n      \r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{form.data.fname }} ({{form.data.role}})\r\n          </font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n\r\n          <a class=\"dropdown-item\" (click)=\"forward()\"><i class=\" fa fa-user-md\"></i> &nbsp; {{'My Profile' |\r\n            translate}}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/changepassword']\"><i class=\" fa fa-key\"></i> &nbsp; {{'Change Password' |\r\n            translate}}</a>\r\n            <a class=\"dropdown-item\" [routerLink]=\"\" (click)=\"goToLink()\"><i class=\"fa fa-file\"></i> &nbsp;{{'Java Doc' | translate}}</a>\r\n            \r\n          <a class=\"dropdown-item\" (click)=\"logout()\"><i class=\" fa fa-lock\"></i> &nbsp;&nbsp;{{'Log Out' | translate}}</a>\r\n        </div>\r\n      </li>\r\n    </ul>\r\n  </div>\r\n</nav>\r\n\r\n<div>\r\n\r\n</div>"
+module.exports = "<style type=\"text/css\">\r\n  .Suraj{\r\n  background-image : linear-gradient(to bottom right, #00008B, rgb(219, 231, 237));}\r\n\r\n  .c1{\r\ncolor: rgb(235, 6, 6);\r\n  }\r\n  </style>\r\n\r\n<div class=\"header\">\r\n  <nav *ngIf=\"!isLogin()\" class=\"navbar navbar-expand-lg Suraj\">\r\n    <div class=\"logo\">\r\n      <a class=\"nav-link\" [routerLink]=\"['/dashboard']\">\r\n        <!-- <strong class=\"text-white\">Rays</strong> -->\r\n        <img src=\"assets\\files\\custom.png\" height=\"40px\" width=\"120px\">\r\n      </a>  \r\n    </div>\r\n    <select #locale (change)='changeLocale(locale.value)'class=\"c1\" >\r\n       <option value=\"en\">{{'Select Language' | translate }}</option> \r\n      \r\n      <option value=\"en\" style=\"color: red;\">English</option>\r\n      <option value=\"hi\"style=\"color: red;\">{{'Hindi' | translate }}</option>\r\n    </select>\r\n\r\n\r\n    <button class=\"navbar-toggler navbar-light\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNav\"\r\n      aria-controls=\"navbarNav\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n      <span class=\"navbar-toggler-icon\"></span>\r\n    </button>\r\n\r\n    <div class=\"collapse navbar-collapse\" id=\"navbarNav\" style=\"font-size: 15px;\">\r\n      <ul class=\"navbar-nav ml-auto\" style=\"padding-right: 6.5%;\">\r\n        \r\n        <li class=\"nav-item dropdown\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['myNav']\" id=\"navbarDropdown\" role=\"button\"\r\n            data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n            <font style=\"color: white;\">{{'Hi,Guest'| translate}}\r\n            </font>\r\n          </a>\r\n\r\n          <div class=\"dropdown-menu\" id=\"myNav\" aria-labelledby=\"navbarDropdown\">\r\n            <a class=\"dropdown-item\" [routerLink]=\"['/login']\"><i class=\"fa fa-user\"></i> &nbsp; &nbsp; &nbsp; {{'Log in' | translate}}</a>\r\n            <a class=\"dropdown-item\" [routerLink]=\"['/signup']\"><i class=\" fa fa-users\"></i> &nbsp; {{'User Registration' |\r\n              translate}}</a>\r\n          </div>\r\n        </li>\r\n        <li>\r\n\r\n        </li>\r\n      </ul>\r\n    </div>\r\n  \r\n  </nav>\r\n</div>\r\n\r\n\r\n<nav *ngIf=\"isLogin()\" class=\"navbar navbar-expand-lg Suraj\">\r\n\r\n  <div class=\"logo\">\r\n    <a class=\"nav-link\" [routerLink]=\"['/dashboard']\">\r\n      <!-- <strong class=\"text-white\">Rays</strong> -->\r\n      <img src=\"assets\\files\\custom.png\" height=\"40px\" width=\"120px\">\r\n    </a>\r\n  </div>\r\n  <!-- <strong class=\"text-white\">NCS Pvt Ltd</strong> -->\r\n\r\n\r\n  <select #locale (click)='changeLocale(locale.value)'>\r\n     <option value=\"en\">{{'Select Language' | translate }}</option>\r\n    <option value=\"en\">English</option>\r\n    <option value=\"hi\">{{'Hindi' | translate }}</option>\r\n  </select>\r\n\r\n\r\n  <button class=\"navbar-toggler navbar-light\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNav\"\r\n    aria-controls=\"navbarNav\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n    <span class=\"navbar-toggler-icon\"></span>\r\n  </button>\r\n  <div class=\"collapse navbar-collapse\" id=\"navbarNav\">\r\n\r\n\r\n    <div class=\"col-sm-2\"></div>\r\n\r\n\r\n\r\n    <ul class=\"nav navbar-nav pl-2 \">\r\n\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px;\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'User' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/user']\"><i class=\"fa fa-user\"></i> &nbsp; &nbsp;{{'Add User' |\r\n            translate}}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/userlist']\"><i class=\"fa fa-list\"></i>&nbsp; {{'User List' | translate}}</a>\r\n        </div>\r\n      </li>\r\n<li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Marksheet' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/marksheet']\"><i class=\"fa fa-file\"></i> &nbsp; {{'Add Marksheet' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/marksheetlist']\"><i class=\"fa fa-paste\"></i> &nbsp;\r\n            {{'Marksheet List' | translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/marksheetmeritlist']\"><i\r\n              class=\" fa fa-list\"></i> &nbsp; {{'Marksheet Merit List' | translate}} </a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/getmarksheet']\"><i class=\"fa fa-copy\"></i> &nbsp; {{'Get Marksheet' |\r\n            translate}}</a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Role' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/role']\"><i class=\"fa fa-user\"></i> &nbsp; &nbsp; {{'Add Role' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/rolelist']\"><i class=\"fa fa-users\"></i> &nbsp; {{'Role List' |\r\n            translate}}</a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'College' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/college']\"><i class=\"fa fa-university\"></i> &nbsp; {{'Add College' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/collegelist']\"><i class=\"fa fa-building\"></i> &nbsp;\r\n            {{'College List' | translate}} </a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Course' | translate}}\r\n          </font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/course']\"><i class=\"fa fa-book\"></i> &nbsp; {{'Add Course' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/courselist']\"><i class=\"fa fa-list\"></i> &nbsp; {{'Course List'\r\n            | translate}} </a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Student' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/student']\"><i class=\"fa fa-user\"></i> &nbsp; {{'Add Student' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/studentlist']\"><i class=\"fa fa-users\"></i> &nbsp; {{'Student\r\n            List' | translate}}</a>\r\n        </div>\r\n      </li>\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Faculty' | translate}}\r\n          </font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/faculty']\"><i class=\"fa fa-users\"></i> &nbsp; {{'Add Faculty' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/facultylist']\"><i class=\" fa fa-list\"></i> &nbsp; {{'Faculty\r\n            List' | translate}}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'TimeTable' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/timetable']\"><i class=\"fa fa-clock-o\"></i> &nbsp; {{'Add TimeTable'\r\n            | translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/timetablelist']\"><i class=\"fa fa-list\"></i> &nbsp;\r\n            {{'TimeTable List' | translate}}</a>\r\n        </div>\r\n      </li>\r\n\r\n\r\n      <!-- <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n        id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" a\r\n        ria-expanded=\"false\">\r\n        <font style=\"color: white;\">{{'customer' | translate}}</font>\r\n      </a>\r\n      <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n        <a class=\"dropdown-item\" [routerLink]=\"['/customer']\"><i class=\"fa fa-clock-o\"></i> &nbsp; {{'Add Customer'\r\n          | translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/customerlist']\"><i class=\"fa fa-list\"></i> &nbsp;\r\n          {{'customer List' | translate}}</a>\r\n      </div>\r\n    </li>\r\n    -->\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{'Subject' | translate}}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/subject']\"><i class=\"fa fa-calculator\"></i> &nbsp; {{'Add Subject' |\r\n            translate}}</a> <a class=\"dropdown-item\" [routerLink]=\"['/subjectlist']\"> <i class=\"fa fa-list\"></i> &nbsp; {{'Subject\r\n            List' | translate}}\r\n          </a>\r\n        </div>\r\n      </li>\r\n\r\n       <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Asset' | translate }}</font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/asset']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Asset' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/assetlist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Asset List' | translate }}</a>\r\n        </div>\r\n      </li> \r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Client' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/client']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Client' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/clientlist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Client List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Xyz' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/xyz']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Xyz' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/xyzlist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Xyz List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <!-- <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Stock analysis' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/stockanalysis']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Stock analysis' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/stockanalysislist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Stock analysis List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Portfolio' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/portfolio']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Portfolio' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/portfoliolist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Portfolio List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Region' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/region']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Region' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/regionlist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Region List' | translate }}</a>\r\n        </div>\r\n      </li>\r\n\r\n\r\n      \r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\">\r\n        <a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{ 'Follow UP' | translate }}</font>\r\n        </a>\r\n        \r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/followup']\"><i class=\"fa fa-plus\"></i> &nbsp; {{ 'Add Follow UP' | translate }}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/followuplist']\"><i class=\"fa fa-list\"></i> &nbsp; {{ 'Follow UP List' | translate }}</a>\r\n        </div>\r\n      </li> -->\r\n      \r\n      <li class=\"nav-item dropdown\" style=\"padding-left: 5px\"><a class=\"nav-link dropdown-toggle\" [routerLink]=\"['/#']\"\r\n          id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <font style=\"color: white;\">{{form.data.fname }} ({{form.data.role}})\r\n          </font>\r\n        </a>\r\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\r\n\r\n          <a class=\"dropdown-item\" (click)=\"forward()\"><i class=\" fa fa-user-md\"></i> &nbsp; {{'My Profile' |\r\n            translate}}</a>\r\n          <a class=\"dropdown-item\" [routerLink]=\"['/changepassword']\"><i class=\" fa fa-key\"></i> &nbsp; {{'Change Password' |\r\n            translate}}</a>\r\n            <a class=\"dropdown-item\" [routerLink]=\"\" (click)=\"goToLink()\"><i class=\"fa fa-file\"></i> &nbsp;{{'Java Doc' | translate}}</a>\r\n            \r\n          <a class=\"dropdown-item\" (click)=\"logout()\"><i class=\" fa fa-lock\"></i> &nbsp;&nbsp;{{'Log Out' | translate}}</a>\r\n        </div>\r\n      </li>\r\n    </ul>\r\n  </div>\r\n</nav>\r\n\r\n<div>\r\n\r\n</div>"
 
 /***/ }),
 
@@ -6001,168 +5155,6 @@ var SpinnerComponent = /** @class */ (function () {
 
 /***/ }),
 
-/***/ "./src/app/stockanalysis/stockanalysis.component.css":
-/*!***********************************************************!*\
-  !*** ./src/app/stockanalysis/stockanalysis.component.css ***!
-  \***********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3N0b2NrYW5hbHlzaXMvc3RvY2thbmFseXNpcy5jb21wb25lbnQuY3NzIn0= */"
-
-/***/ }),
-
-/***/ "./src/app/stockanalysis/stockanalysis.component.html":
-/*!************************************************************!*\
-  !*** ./src/app/stockanalysis/stockanalysis.component.html ***!
-  \************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  .grad {\r\n    background-image: linear-gradient(to bottom right, rgb(32, 168, 168), rgb(219, 231, 237));\r\n    background-repeat: no-repeat;\r\n    background-size: 100%;\r\n    padding-bottom: 25px;\r\n  }\r\n\r\n  .background {\r\n    padding-top: 3%;\r\n    padding-bottom: 13%;\r\n    background: url('assets/files/wall.jpg') no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: 100%;\r\n    height: auto;\r\n  }\r\n\r\n  .required-field {\r\n    color: red;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n</style>\r\n\r\n<div class=\"container-fluid background\">\r\n  <div class=\"row justify-content-center\">\r\n    <div class=\"col-sm-8 col-md-6 col-lg-4\">\r\n      <div class=\"card\">\r\n        <div class=\"card-body shadow-lg grad\">\r\n          <form name=\"stockanalysisForm\">\r\n            <h2 *ngIf=\"!form.data.id\" class=\"text-primary font-weight-bold\" style=\"text-align: center;\">\r\n              {{ 'Add Stock Analysis' | translate }}\r\n            </h2>\r\n            <h2 *ngIf=\"form.data.id\" class=\"text-primary font-weight-bold\" style=\"text-align: center;\">\r\n              {{ 'Update Stock Analysis' | translate }}\r\n            </h2>\r\n\r\n            <!-- Form error messages -->\r\n            <div *ngIf=\"form.error && form.message\" class=\"alert alert-danger alert-dismissible fade show\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n            <div *ngIf=\"!form.error && form.message\" class=\"alert alert-success alert-dismissible fade show\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Stock Symbol' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-id-badge grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"stockSymbol\" [(ngModel)]=\"form.data.stockSymbol\" class=\"form-control\"\r\n                  (keydown)=\"filterInput($event, 'errorMessageStockSymbol', 5, '')\"\r\n                  placeholder=\"{{ 'Enter Stock Symbol' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"errorMessageStockSymbol\" class=\"alertRedColor\">{{ errorMessageStockSymbol }}</span>\r\n              <span *ngIf=\"form.inputerror?.stockSymbol\" class=\"alertRedColor\">{{ form.inputerror.stockSymbol }}</span>\r\n            </div>\r\n            \r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Start Date' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-calendar grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"date\" name=\"startDate\" [value]=\"form.data.startDate | date:'yyyy-MM-dd'\" class=\"form-control\"\r\n                (input)=\"form.data.startDate=parseDate($event.target.value)\"\r\n                  placeholder=\"{{ 'Enter Start Date' | translate }}\" required>\r\n              </div>\r\n              \r\n              <span *ngIf=\"form.inputerror?.startDate\" class=\"alertRedColor\">{{ form.inputerror.startDate }}</span>\r\n            </div>\r\n\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'End Date' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-calendar grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"date\" name=\"endDate\" [value]=\"form.data.endDate | date:'yyyy-MM-dd'\" class=\"form-control\"\r\n                (input)=\"form.data.endDate=parseDate($event.target.value)\"\r\n                  placeholder=\"{{ 'Enter End Date' | translate }}\" required>\r\n              </div>\r\n              \r\n              <span *ngIf=\"form.inputerror?.endDate\" class=\"alertRedColor\">{{ form.inputerror.endDate }}</span>\r\n            </div>\r\n\r\n            \r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Analysis Type' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-paint-brush grey-text\"></i></div>\r\n                </div>\r\n                <select class=\"form-control\" name=\"analysisType\" [(ngModel)]=\"form.data.analysisType\" aria-label=\"ngSelected\" required>\r\n                  <option [ngValue]=\"undefined\">{{ 'Select Analysis Type' | translate }}</option>\r\n                  <option *ngFor=\"let color of form.preload.analysisList\" [value]=\"color.key\">{{ color.value }}</option>\r\n                </select>\r\n              </div>\r\n              <span *ngIf=\"form.inputerror?.analysisType\" class=\"alertRedColor\">{{ form.inputerror.analysisType }}</span>\r\n            </div>\r\n\r\n            <div class=\"row pt-2 pl-2 pb-3\">\r\n  \r\n              <div class=\"col-md-3\"></div>\r\n              \r\n              <div class=\"pt-2\">\r\n                <button *ngIf=\"!form.data.id > 0\" (click)=\"submit()\" class=\"btn btn-success mr-2\">\r\n                  {{ 'Save' | translate }}\r\n                </button>\r\n              </div>\r\n            \r\n              <div class=\"col-md-1\"></div>\r\n            \r\n              <div class=\"pt-2\">\r\n                <button *ngIf=\"form.data.id > 0\" (click)=\"submit()\" class=\"btn btn-success mr-2\">\r\n                  {{ 'Update' | translate }}\r\n                </button>\r\n              </div>\r\n              \r\n              <div class=\"pt-2\">\r\n                <a class=\"btn btn-warning mr-1\" type=\"button\" [routerLink]=\"['/stockanalysislist']\"\r\n                   style=\"text-decoration: none; color: white;\">\r\n                  {{ 'List' | translate }}\r\n                </a>\r\n              </div>\r\n              \r\n            </div>\r\n            \r\n          </form>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n"
-
-/***/ }),
-
-/***/ "./src/app/stockanalysis/stockanalysis.component.ts":
-/*!**********************************************************!*\
-  !*** ./src/app/stockanalysis/stockanalysis.component.ts ***!
-  \**********************************************************/
-/*! exports provided: StockanalysisComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StockanalysisComponent", function() { return StockanalysisComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _base_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base.component */ "./src/app/base.component.ts");
-/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
-
-
-
-
-
-var StockanalysisComponent = /** @class */ (function (_super) {
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](StockanalysisComponent, _super);
-    function StockanalysisComponent(locator, route) {
-        var _this = _super.call(this, locator.endpoints.STOCKANALYSIS, locator, route) || this;
-        _this.locator = locator;
-        _this.route = route;
-        _this.errorMessageTitle = '';
-        return _this;
-    }
-    StockanalysisComponent.prototype.validateForm = function (form) {
-        var flag = true;
-        var validator = this.serviceLocator.dataValidator;
-        flag = flag && validator.isNotNullObject(form.stockSymbol);
-        flag = flag && validator.isNotNullObject(form.analysisType);
-        flag = flag && validator.isNotNullObject(form.startDate);
-        flag = flag && validator.isNotNullObject(form.endDate);
-        return flag;
-    };
-    StockanalysisComponent.prototype.populateForm = function (form, data) {
-        form.id = data.id;
-        form.stockSymbol = data.stockSymbol;
-        form.analysisType = data.analysisType;
-        form.startDate = data.startDate;
-        form.endDate = data.endDate;
-    };
-    StockanalysisComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-stockanalysis',
-            template: __webpack_require__(/*! ./stockanalysis.component.html */ "./src/app/stockanalysis/stockanalysis.component.html"),
-            styles: [__webpack_require__(/*! ./stockanalysis.component.css */ "./src/app/stockanalysis/stockanalysis.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"]])
-    ], StockanalysisComponent);
-    return StockanalysisComponent;
-}(_base_component__WEBPACK_IMPORTED_MODULE_2__["BaseCtl"]));
-
-
-
-/***/ }),
-
-/***/ "./src/app/stockanalysis/stockanalysislist.component.css":
-/*!***************************************************************!*\
-  !*** ./src/app/stockanalysis/stockanalysislist.component.css ***!
-  \***************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3N0b2NrYW5hbHlzaXMvc3RvY2thbmFseXNpc2xpc3QuY29tcG9uZW50LmNzcyJ9 */"
-
-/***/ }),
-
-/***/ "./src/app/stockanalysis/stockanalysislist.component.html":
-/*!****************************************************************!*\
-  !*** ./src/app/stockanalysis/stockanalysislist.component.html ***!
-  \****************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  #nnn {\r\n    background: none;\r\n    border: none;\r\n    cursor: pointer;\r\n  }\r\n\r\n  .panel-heading {\r\n    height: 50px;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n  }\r\n\r\n  .search-inputs {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .form-control,\r\n  .search-inputs .btn {\r\n    margin-bottom: 10px;\r\n  }\r\n\r\n  .content-wrapper {\r\n    background: url('assets/files/teahu.png') no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: auto;\r\n    height: 105vh;\r\n    padding: 20px;\r\n  }\r\n\r\n  .table-responsive {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .col-sm-2,\r\n  .search-inputs .col-sm-1 {\r\n    padding: 0 5px;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n</style>\r\n<div class=\"content-wrapper\">\r\n  <div class=\"container-fluid\">\r\n    <div class=\"panel panel-primary\">\r\n      <div class=\"panel-heading\">\r\n        <h1 class=\"text-primary font-weight-bold\">{{ 'Stock Analysis List' | translate }}</h1>\r\n      </div>\r\n\r\n      <div class=\"row search-inputs p-1 justify-content-center\">\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"text\" name=\"stockSymbol\" [(ngModel)]=\"form.searchParams.stockSymbol\" class=\"form-control\"\r\n          (keydown)=\"filterInput($event, 'errorMessageStockSymbol', 5, '')\"\r\n            placeholder=\"{{ 'Enter Stock Symbol' | translate }}\">\r\n            <span *ngIf=\"errorMessageStockSymbol\" class=\"alertRedColor\">{{ errorMessageStockSymbol }}</span>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"date\" name=\"endDate\" [(ngModel)]=\"form.searchParams.endDate\" class=\"form-control\"\r\n            placeholder=\"{{ 'Enter End Date' | translate }}\">\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"date\" name=\"startDate\" [(ngModel)]=\"form.searchParams.startDate\" class=\"form-control\"\r\n            placeholder=\"{{ 'Enter Start Date' | translate }}\">\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <select class=\"form-control\" name=\"analysisType\" [(ngModel)]=\"form.searchParams.analysisType\" aria-label=\"ngSelected\" required>\r\n            <option [ngValue]=\"undefined\">{{ 'Select Analysis Type' | translate }}</option>\r\n            <option *ngFor=\"let color of form.preload.analysisList\" [value]=\"color.key\">{{ color.value }}</option>\r\n          </select>\r\n          \r\n        </div>\r\n\r\n        <div class=\"col-sm-1\">\r\n          <button (click)=\"submit()\" class=\"btn btn-primary\">{{ 'Search' | translate }}</button>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <button (click)=\"forward('/stockanalysis')\" type=\"button\" class=\"btn btn-success\">\r\n            {{ 'Add stock Analysis' | translate }}\r\n          </button>\r\n        </div>\r\n\r\n        <div class=\"col-sm-1\">\r\n          <button (click)=\"deleteMany()\" class=\"btn btn-danger\">{{ 'Delete' | translate }}</button>\r\n        </div>\r\n      </div>\r\n\r\n      <div *ngIf=\"form.error\" class=\"alert alert-danger alert-dismissible\">\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n        {{ form.message }}\r\n      </div>\r\n\r\n      <div *ngIf=\"!form.error && form.message != null\" class=\"alert alert-success alert-dismissible\">\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n        {{ form.message }}\r\n      </div>\r\n\r\n      <div class=\"table-responsive\">\r\n        <table class=\"table table-bordered table-hover font-weight-bold text-dark\">\r\n          <thead class=\"thead-dark text-uppercase\">\r\n            <tr align=\"center\">\r\n              <th><input type=\"checkbox\" [(ngModel)]=\"isMasterSel\" name=\"list_name\"\r\n                  (change)=\"checkUncheckAll($event)\" /></th>\r\n              <th>{{ 'S.No' | translate }}</th>\r\n              <th>{{ 'Stock Symbol' | translate }}</th>\r\n              <th>{{ 'Start Date' | translate }}</th>\r\n              <th>{{ 'End Date' | translate }}</th>\r\n              <th>{{ 'Analysis Type' | translate }}</th>\r\n              <th>{{ 'Edit' | translate }}</th>\r\n            </tr>\r\n          </thead>\r\n          <tbody>\r\n            <tr *ngFor=\"let m of form.list; let i = index\" align=\"center\">\r\n              <td><input type=\"checkbox\" #checkboxes (change)=\"checklistUpdate()\" name=\"list_name\" [id]=\"m.id\" /></td>\r\n              <td>{{ (form.pageNo * 5) + i + 1 }}</td>\r\n              <td>{{ m.stockSymbol }}</td>\r\n              <td>{{ m.startDate | date:'yyyy-MM-dd' }}</td>\r\n              <td>{{ m.endDate | date:'yyyy-MM-dd' }}</td>\r\n              <td>{{ findSelValueByKey(m.analysisType,form.preload.analysisList) }}</td>\r\n\r\n              <td>\r\n                <button class=\"fa fa-edit text-primary\" id=\"nnn\" (click)=\"forward('/stockanalysis/' + m.id)\">\r\n                </button>\r\n              </td>\r\n            </tr>\r\n          </tbody>\r\n        </table>\r\n\r\n        <div class=\"d-flex justify-content-between mt-3\">\r\n          <button (click)=\"previous()\" [disabled]=\"form.pageNo == 0\" class=\"btn btn-info\">{{ 'Previous' | translate }}</button>\r\n\r\n          <div>\r\n            <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/stockanalysislist']\" (click)=\"exit()\">\r\n              {{ 'Reset' | translate }}\r\n            </a>\r\n          </div>\r\n\r\n          <div *ngIf=\"form.list.length == 0\">\r\n            <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/stockanalysislist']\" (click)=\"exit()\">\r\n              {{ 'Back' | translate }}\r\n            </a>\r\n          </div>\r\n          <button (click)=\"next()\" [disabled]=\"nextList == 0\" class=\"btn btn-info\">{{ 'Next' | translate }}</button>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n"
-
-/***/ }),
-
-/***/ "./src/app/stockanalysis/stockanalysislist.component.ts":
-/*!**************************************************************!*\
-  !*** ./src/app/stockanalysis/stockanalysislist.component.ts ***!
-  \**************************************************************/
-/*! exports provided: StockanalysislistComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StockanalysislistComponent", function() { return StockanalysislistComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _base_list_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base-list.component */ "./src/app/base-list.component.ts");
-/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
-
-
-
-
-
-
-var StockanalysislistComponent = /** @class */ (function (_super) {
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](StockanalysislistComponent, _super);
-    function StockanalysislistComponent(locator, route, httpClient) {
-        var _this = _super.call(this, locator.endpoints.STOCKANALYSIS, locator, route) || this;
-        _this.locator = locator;
-        _this.route = route;
-        _this.httpClient = httpClient;
-        _this.myKey = "";
-        _this.form = {
-            error: false,
-            message: null,
-            preload: [],
-            data: { id: null },
-            inputerror: {},
-            searchParams: {},
-            searchMessage: null,
-            list: [],
-            pageNo: 0
-        };
-        return _this;
-    }
-    StockanalysislistComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'app-stockanalysislist',
-            template: __webpack_require__(/*! ./stockanalysislist.component.html */ "./src/app/stockanalysis/stockanalysislist.component.html"),
-            styles: [__webpack_require__(/*! ./stockanalysislist.component.css */ "./src/app/stockanalysis/stockanalysislist.component.css")]
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"], _angular_common_http__WEBPACK_IMPORTED_MODULE_5__["HttpClient"]])
-    ], StockanalysislistComponent);
-    return StockanalysislistComponent;
-}(_base_list_component__WEBPACK_IMPORTED_MODULE_2__["BaseListCtl"]));
-
-
-
-/***/ }),
-
 /***/ "./src/app/student/student-list.component.html":
 /*!*****************************************************!*\
   !*** ./src/app/student/student-list.component.html ***!
@@ -7172,6 +6164,299 @@ var DataValidator = /** @class */ (function () {
     ], DataValidator);
     return DataValidator;
 }());
+
+
+
+/***/ }),
+
+/***/ "./src/app/xyz/xyz.component.css":
+/*!***************************************!*\
+  !*** ./src/app/xyz/xyz.component.css ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3h5ei94eXouY29tcG9uZW50LmNzcyJ9 */"
+
+/***/ }),
+
+/***/ "./src/app/xyz/xyz.component.html":
+/*!****************************************!*\
+  !*** ./src/app/xyz/xyz.component.html ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  .grad {\r\n    background-image: linear-gradient(to bottom right, rgb(32, 168, 168), rgb(219, 231, 237));\r\n    background-repeat: no-repeat;\r\n    background-size: 100%;\r\n    padding-bottom: 25px;\r\n  }\r\n\r\n  .background {\r\n    padding-top: 3%;\r\n    padding-bottom: 13%;\r\n    background: url('assets/files/wall.jpg') no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: 100%;\r\n    height: auto;\r\n  }\r\n\r\n  .required-field {\r\n    color: red;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n</style>\r\n\r\n<div class=\"container-fluid background\">\r\n  <div class=\"row justify-content-center\">\r\n    <div class=\"col-sm-8 col-md-6 col-lg-4\">\r\n      <div class=\"card\">\r\n        <div class=\"card-body shadow-lg grad\">\r\n          <form name=\"xyzForm\">\r\n            <h2 *ngIf=\"!form.data.id\" class=\"text-primary font-weight-bold\" style=\"text-align: center;\">\r\n              {{ 'Add XYZ' | translate }}\r\n            </h2>\r\n            <h2 *ngIf=\"form.data.id\" class=\"text-primary font-weight-bold\" style=\"text-align: center;\">\r\n              {{ 'Update XYZ' | translate }}\r\n            </h2>\r\n\r\n            <!-- Form error messages -->\r\n            <div *ngIf=\"form.error && form.message\" class=\"alert alert-danger alert-dismissible fade show\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n            <div *ngIf=\"!form.error && form.message\" class=\"alert alert-success alert-dismissible fade show\">\r\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n              {{ form.message }}\r\n            </div>\r\n\r\n            <!-- Name Field with Validation -->\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Description' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-id-badge grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"description\" [(ngModel)]=\"form.data.description\" class=\"form-control\" maxlength=\"51\"\r\n                  (keydown)=\"validateName($event)\" placeholder=\"{{ 'Enter description' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"errorMessageName\" class=\"alertRedColor\">{{ errorMessageName }}</span>\r\n              <span *ngIf=\"form.inputerror?.description\" class=\"alertRedColor\">{{ form.inputerror.description }}</span>\r\n            </div>\r\n\r\n            <!-- Amount Field -->\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Amount' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-id-badge grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"text\" name=\"amount\" [(ngModel)]=\"form.data.amount\" class=\"form-control\"\r\n                  (keydown)=\"filterInput($event, 'errorMessageAmount', 8, 'int')\"\r\n                  placeholder=\"{{ 'Enter amount' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"errorMessageAmount\" class=\"alertRedColor\">{{ errorMessageAmount }}</span>\r\n              <span *ngIf=\"form.inputerror?.amount\" class=\"alertRedColor\">{{ form.inputerror.amount }}</span>\r\n            </div>\r\n\r\n            <!-- Start Date Field -->\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Added Date' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-calendar grey-text\"></i></div>\r\n                </div>\r\n                <input type=\"date\" name=\"addedDate\" [value]=\"form.data.addedDate | date:'yyyy-MM-dd'\" class=\"form-control\"\r\n                  (input)=\"form.data.addedDate=parseDate($event.target.value)\"\r\n                  placeholder=\"{{ 'Enter Added Date' | translate }}\" required>\r\n              </div>\r\n              <span *ngIf=\"form.inputerror?.addedDate\" class=\"alertRedColor\">{{ form.inputerror.addedDate }}</span>\r\n            </div>\r\n\r\n            <!-- Analysis Type Field -->\r\n            <div class=\"form-group pt-2\">\r\n              <label><b>{{ 'Product' | translate }}</b><span class=\"required-field\">*</span></label>\r\n              <div class=\"input-group\">\r\n                <div class=\"input-group-prepend\">\r\n                  <div class=\"input-group-text\"><i class=\"fa fa-paint-brush grey-text\"></i></div>\r\n                </div>\r\n                <select class=\"form-control\" name=\"product\" [(ngModel)]=\"form.data.product\" aria-label=\"ngSelected\" required>\r\n                  <option [ngValue]=\"undefined\">{{ 'Select product' | translate }}</option>\r\n                  <option *ngFor=\"let leve of form.preload.productList\" [value]=\"leve.key\">{{ leve.value }}</option>\r\n                </select>\r\n              </div>\r\n              <span *ngIf=\"form.inputerror?.product\" class=\"alertRedColor\">{{ form.inputerror.product }}</span>\r\n            </div>\r\n\r\n            <div class=\"row pt-2 pl-2 pb-3\">\r\n              <div class=\"col-md-3\"></div>\r\n              <div class=\"pt-2\">\r\n                <button *ngIf=\"!form.data.id > 0\" (click)=\"submit()\" class=\"btn btn-success mr-2\">\r\n                  {{ 'Save' | translate }}\r\n                </button>\r\n              </div>\r\n              <div class=\"col-md-1\"></div>\r\n              <div class=\"pt-2\">\r\n                <button *ngIf=\"form.data.id > 0\" (click)=\"submit()\" class=\"btn btn-success mr-2\">\r\n                  {{ 'Update' | translate }}\r\n                </button>\r\n              </div>\r\n              <div class=\"pt-2\">\r\n                <a class=\"btn btn-warning mr-1\" type=\"button\" [routerLink]=\"['/xyzlist']\"\r\n                   style=\"text-decoration: none; color: white;\">\r\n                  {{ 'List' | translate }}\r\n                </a>\r\n              </div>\r\n            </div>\r\n            \r\n          </form>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n"
+
+/***/ }),
+
+/***/ "./src/app/xyz/xyz.component.ts":
+/*!**************************************!*\
+  !*** ./src/app/xyz/xyz.component.ts ***!
+  \**************************************/
+/*! exports provided: XyzComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "XyzComponent", function() { return XyzComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _base_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base.component */ "./src/app/base.component.ts");
+/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
+
+
+
+
+
+var XyzComponent = /** @class */ (function (_super) {
+    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](XyzComponent, _super);
+    function XyzComponent(locator, route) {
+        var _this = _super.call(this, locator.endpoints.XYZ, locator, route) || this;
+        _this.locator = locator;
+        _this.route = route;
+        _this.errorMessageTitle = '';
+        _this.errorMessageName = '';
+        return _this;
+    }
+    XyzComponent.prototype.validateForm = function (form) {
+        var flag = true;
+        var validator = this.serviceLocator.dataValidator;
+        flag = flag && validator.isNotNullObject(form.product);
+        flag = flag && validator.isNotNullObject(form.description);
+        flag = flag && validator.isNotNullObject(form.addedDate);
+        flag = flag && validator.isNotNullObject(form.amount);
+        return flag;
+    };
+    XyzComponent.prototype.populateForm = function (form, data) {
+        form.id = data.id;
+        form.addedDate = data.addedDate;
+        form.description = data.description;
+        form.product = data.product;
+        form.amount = data.amount;
+    };
+    // validateName(event: KeyboardEvent): void {
+    //   const inputValue = (event.target as HTMLInputElement).value;
+    //   const inputChar = event.key;
+    //   const alphabetPattern = /^[a-zA-Z]*$/;  // Pattern to match only alphabetic characters
+    //   if (!alphabetPattern.test(inputChar) && !['Backspace', 'Delete', 'Tab'].includes(inputChar)) {
+    //     event.preventDefault();
+    //     this.errorMessageName = 'Only alphabets are allowed.';
+    //     return;
+    //   }
+    //   if (inputValue.length < 1) {
+    //     this.errorMessageName = 'Name must be at least  characters long.';
+    //   } else if (inputValue.length > 15) {
+    //     this.errorMessageName = 'Name must not exceed 15 characters.';
+    //   } else {
+    //     this.errorMessageName = '';  // Clear error message if valid
+    //   }
+    // }
+    XyzComponent.prototype.validateName = function (event) {
+        var inputValue = event.target.value;
+        var inputChar = event.key;
+        var alphabetPattern = /^[a-zA-Z\s]*$/;
+        if (!alphabetPattern.test(inputChar) && !['Backspace', 'Delete', 'Tab'].includes(inputChar)) {
+            event.preventDefault();
+            this.errorMessageName = 'Only alphabets are allowed.';
+            return;
+        }
+        if (inputValue.length > 50) {
+            this.errorMessageName = 'Description must not exceed 50 characters.';
+        }
+        else {
+            this.errorMessageName = ''; // Clear error message if valid
+        }
+    };
+    // New method to validate before saving
+    XyzComponent.prototype.validateBeforeSave = function () {
+        if (this.errorMessageName) {
+            // If there's any error message, don't proceed with saving
+            return false;
+        }
+        // Add other field validations if needed
+        // Validate form data
+        if (!this.validateForm(this.form.data)) {
+            return false;
+        }
+        return true;
+    };
+    // Save method that checks validation
+    XyzComponent.prototype.saveForm = function () {
+        if (this.validateBeforeSave()) {
+            console.log('Form data is valid. Saving data...');
+            // Perform the actual save operation
+        }
+        else {
+            console.log('Validation failed. Form not saved.');
+        }
+    };
+    XyzComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-xyz',
+            template: __webpack_require__(/*! ./xyz.component.html */ "./src/app/xyz/xyz.component.html"),
+            styles: [__webpack_require__(/*! ./xyz.component.css */ "./src/app/xyz/xyz.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"]])
+    ], XyzComponent);
+    return XyzComponent;
+}(_base_component__WEBPACK_IMPORTED_MODULE_2__["BaseCtl"]));
+
+
+
+/***/ }),
+
+/***/ "./src/app/xyz/xyzlist.component.css":
+/*!*******************************************!*\
+  !*** ./src/app/xyz/xyzlist.component.css ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3h5ei94eXpsaXN0LmNvbXBvbmVudC5jc3MifQ== */"
+
+/***/ }),
+
+/***/ "./src/app/xyz/xyzlist.component.html":
+/*!********************************************!*\
+  !*** ./src/app/xyz/xyzlist.component.html ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<app-navbar></app-navbar>\r\n\r\n<style>\r\n  #nnn {\r\n    background: none;\r\n    border: none;\r\n    cursor: pointer;\r\n  }\r\n\r\n  .panel-heading {\r\n    height: 50px;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n  }\r\n\r\n  .search-inputs {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .form-control,\r\n  .search-inputs .btn {\r\n    margin-bottom: 10px;\r\n  }\r\n\r\n  .content-wrapper {\r\n    background: url('assets/files/teahu.png') no-repeat center center;\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n    width: auto;\r\n    height: 105vh;\r\n    padding: 20px;\r\n  }\r\n\r\n  .table-responsive {\r\n    margin-top: 20px;\r\n  }\r\n\r\n  .search-inputs .col-sm-2,\r\n  .search-inputs .col-sm-1 {\r\n    padding: 0 5px;\r\n  }\r\n\r\n  .alertRedColor {\r\n    color: red;\r\n  }\r\n</style>\r\n<div class=\"content-wrapper\">\r\n  <div class=\"container-fluid\">\r\n    <div class=\"panel panel-primary\">\r\n      <div class=\"panel-heading\">\r\n        <h1 class=\"text-primary font-weight-bold\">{{ 'XYZ List' | translate }}</h1>\r\n      </div>\r\n\r\n      <div class=\"row search-inputs justify-content-center\">\r\n        <div class=\"col-md-3\">\r\n          <input type=\"text\" class=\"form-control\" [(ngModel)]=\"form.searchParams.description\"\r\n            placeholder=\"{{ 'Search  description' | translate }}\" (input)=\"validateInput($event, 'name')\">\r\n          <div *ngIf=\"!isValidNameInput\" class=\"text-danger\">{{ nameErrorMessage }}</div>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"text\" name=\"amount\" [(ngModel)]=\"form.searchParams.amount\" class=\"form-control\"\r\n            (keydown)=\"filterInput($event, 'errorMessageAmount', 8, 'int')\"\r\n            placeholder=\"{{ 'Enter Amount' | translate }}\">\r\n          <span *ngIf=\"errorMessageAmount\" class=\"alertRedColor\">{{ errorMessageAmount }}</span>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <input type=\"date\" name=\"addedDate\" [(ngModel)]=\"form.searchParams.addedDate\" class=\"form-control\"\r\n            placeholder=\"{{ 'Enter Added Date' | translate }}\">\r\n        </div>\r\n\r\n\r\n        <!-- <div class=\"col-sm-2\">\r\n          <input type=\"date\" name=\"startDate\" [(ngModel)]=\"form.searchParams.startDate\" class=\"form-control\"\r\n            placeholder=\"{{ 'Enter Start Date' | translate }}\" (change)=\"validateDate($event)\">\r\n          <div *ngIf=\"!isValidStartDate\" class=\"text-danger\">\r\n            {{ startDateErrorMessage }}\r\n          </div>\r\n        </div> -->\r\n\r\n\r\n\r\n        <div class=\"col-sm-2\">\r\n          <select class=\"form-control\" name=\"product\" [(ngModel)]=\"form.searchParams.product\" aria-label=\"ngSelected\" required>\r\n            <option [ngValue]=\"undefined\">{{ 'Select product' | translate }}</option>\r\n            <option *ngFor=\"let leve of form.preload.productList\" [value]=\"leve.key\">{{ leve.value }}</option>\r\n          </select>\r\n          \r\n        </div>\r\n\r\n        <div class=\"col-sm-1\">\r\n          <button (click)=\"submit()\" class=\"btn btn-primary\">{{ 'Search' | translate }}</button>\r\n        </div>\r\n\r\n        <div class=\"col-sm-2\">\r\n          <button (click)=\"forward('/xyz')\" type=\"button\" class=\"btn btn-success\">\r\n            {{ 'Add xyz' | translate }}\r\n          </button>\r\n        </div>\r\n\r\n        <div class=\"col-sm-1\">\r\n          <button (click)=\"deleteMany()\" class=\"btn btn-danger\">{{ 'Delete' | translate }}</button>\r\n        </div>\r\n      </div>\r\n\r\n      <div *ngIf=\"form.error\" class=\"alert alert-danger alert-dismissible\">\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n        {{ form.message }}\r\n      </div>\r\n\r\n      <div *ngIf=\"!form.error && form.message != null\" class=\"alert alert-success alert-dismissible\">\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\r\n        {{ form.message }}\r\n      </div>\r\n\r\n      <div class=\"table-responsive\">\r\n        <table class=\"table table-bordered table-hover font-weight-bold text-dark\">\r\n          <thead class=\"thead-dark text-uppercase\">\r\n            <tr align=\"center\">\r\n              <th><input type=\"checkbox\" [(ngModel)]=\"isMasterSel\" name=\"list_name\"\r\n                  (change)=\"checkUncheckAll($event)\" /></th>\r\n              <th>{{ 'S.No' | translate }}</th>\r\n              <th>{{ 'Description' | translate }}</th>\r\n              <th>{{ 'Added Date' | translate }}</th>\r\n              <th>{{ 'Amount' | translate }}</th>\r\n              <th>{{ 'Product' | translate }}</th>\r\n              <th>{{ 'Edit' | translate }}</th>\r\n            </tr>\r\n          </thead>\r\n          <tbody>\r\n            <tr *ngFor=\"let m of form.list; let i = index\" align=\"center\">\r\n              <td><input type=\"checkbox\" #checkboxes (change)=\"checklistUpdate()\" name=\"list_name\" [id]=\"m.id\" /></td>\r\n              <td>{{ (form.pageNo * 5) + i + 1 }}</td>\r\n              <td>{{ m.description }}</td>\r\n              <td>{{ m.addedDate | date:'yyyy-MM-dd' }}</td>\r\n              <td>{{ m.amount }}</td>\r\n              <td>{{ findSelValueByKey(m.product,form.preload.productList) }}</td>\r\n\r\n              <td>\r\n                <button class=\"fa fa-edit text-primary\" id=\"nnn\" (click)=\"forward('/xyz/' + m.id)\">\r\n                </button>\r\n              </td>\r\n            </tr>\r\n          </tbody>\r\n        </table>\r\n\r\n        <div class=\"d-flex justify-content-between mt-3\">\r\n          <button (click)=\"previous()\" [disabled]=\"form.pageNo == 0\" class=\"btn btn-info\">{{ 'Previous' | translate }}</button>\r\n\r\n          <div>\r\n            <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/portfoliolist']\" (click)=\"exit()\">\r\n              {{ 'Reset' | translate }}\r\n            </a>\r\n          </div>\r\n\r\n          <div *ngIf=\"form.list.length == 0\">\r\n            <a class=\"btn btn-warning mr-1\" [routerLink]=\"['/portfoliolist']\" (click)=\"exit()\">\r\n              {{ 'Back' | translate }}\r\n            </a>\r\n          </div>\r\n          <button (click)=\"next()\" [disabled]=\"nextList == 0\" class=\"btn btn-info\">{{ 'Next' | translate }}</button>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n<app-footer></app-footer>\r\n"
+
+/***/ }),
+
+/***/ "./src/app/xyz/xyzlist.component.ts":
+/*!******************************************!*\
+  !*** ./src/app/xyz/xyzlist.component.ts ***!
+  \******************************************/
+/*! exports provided: XyzlistComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "XyzlistComponent", function() { return XyzlistComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _base_list_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base-list.component */ "./src/app/base-list.component.ts");
+/* harmony import */ var _service_locator_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../service-locator.service */ "./src/app/service-locator.service.ts");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
+/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
+
+
+
+
+
+
+var XyzlistComponent = /** @class */ (function (_super) {
+    tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"](XyzlistComponent, _super);
+    function XyzlistComponent(locator, route, httpClient) {
+        var _this = _super.call(this, locator.endpoints.XYZ, locator, route) || this;
+        _this.locator = locator;
+        _this.route = route;
+        _this.httpClient = httpClient;
+        _this.form = {
+            error: false,
+            message: null,
+            preload: [],
+            data: { id: null },
+            inputerror: {},
+            searchParams: {
+                name: '',
+                mobile: '',
+                date: '',
+                dateOfJoining: '',
+                experienceId: ''
+            },
+            searchMessage: null,
+            list: [],
+            pageNo: 0
+        };
+        _this.isValidMobileInput = true;
+        _this.isValidNameInput = true;
+        _this.nameErrorMessage = '';
+        _this.mobileErrorMessage = '';
+        _this.isValidStartDate = true;
+        _this.startDateErrorMessage = '';
+        return _this;
+    }
+    XyzlistComponent.prototype.ngOnInit = function () {
+        _super.prototype.ngOnInit.call(this);
+    };
+    // Format date function
+    XyzlistComponent.prototype.formatDate = function (event) {
+        var selectedDate = new Date(event);
+        var formattedDate = selectedDate.toISOString().split('T')[0];
+        this.form.searchParams.date = formattedDate;
+    };
+    XyzlistComponent.prototype.validateInput = function (event, field) {
+        var value = event.target.value;
+        // For the "name" field validation
+        if (field === 'name') {
+            // Restrict input to alphabets and spaces only
+            if (/[^A-Za-z\s]/.test(value)) {
+                // Replace non-alphabetic characters
+                event.target.value = value.replace(/[^A-Za-z\s]/g, '');
+                this.nameErrorMessage = 'Please type alphabets only';
+                this.isValidNameInput = false;
+            }
+            // Restrict input to a maximum length of 15 characters
+            else if (value.length > 15) {
+                // Trim the input to 15 characters
+                event.target.value = value.substring(0, 15);
+                this.nameErrorMessage = 'Description cannot exceed 15 characters';
+                this.isValidNameInput = false;
+            }
+            else {
+                // Clear error message if input is valid
+                this.nameErrorMessage = '';
+                this.isValidNameInput = true;
+            }
+        }
+    };
+    XyzlistComponent.prototype.validateDate = function (event) {
+        var selectedDate = new Date(event.target.value);
+        var today = new Date();
+        today.setHours(0, 0, 0, 0); // Set today's time to midnight to compare only the date
+        if (selectedDate > today) {
+            // If selected date is in the future
+            this.startDateErrorMessage = 'Please enter a past date';
+            this.isValidStartDate = false;
+        }
+        else {
+            // If selected date is valid (past or today)
+            this.startDateErrorMessage = ''; // Clear error message
+            this.isValidStartDate = true;
+        }
+    };
+    // Submit method
+    XyzlistComponent.prototype.submit = function () {
+        // Reset page number before searching
+        this.form.pageNo = 0;
+        // Call the search method after formatting the date
+        this.search();
+    };
+    // Search method
+    XyzlistComponent.prototype.search = function () {
+        // Clear previous search message
+        this.form.searchMessage = null;
+        // Perform the search operation with the search parameters
+        _super.prototype.search.call(this);
+    };
+    XyzlistComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-xyzlist',
+            template: __webpack_require__(/*! ./xyzlist.component.html */ "./src/app/xyz/xyzlist.component.html"),
+            styles: [__webpack_require__(/*! ./xyzlist.component.css */ "./src/app/xyz/xyzlist.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_service_locator_service__WEBPACK_IMPORTED_MODULE_3__["ServiceLocatorService"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["ActivatedRoute"], _angular_common_http__WEBPACK_IMPORTED_MODULE_5__["HttpClient"]])
+    ], XyzlistComponent);
+    return XyzlistComponent;
+}(_base_list_component__WEBPACK_IMPORTED_MODULE_2__["BaseListCtl"]));
 
 
 

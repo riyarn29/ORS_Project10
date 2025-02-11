@@ -32,19 +32,13 @@ import { MarksheetmeritListComponent } from "./marksheet/marksheetmerit-list.com
 import { GetmarksheetComponent } from "./marksheet/getmarksheet.component";
 import { ChangepasswordComponent } from "./user/changepassword.component";
 import { LoaderComponent } from './loader/loader.component';
-import { SpinnerComponent} from './spinner/spinner.component';
+
 import {MyprofileComponent} from './user/myprofile.component';
 
 import { AssetComponent } from './asset/asset.component';
 import { AssetListComponent } from './asset/assetlist.component';
-import { IteminformationComponent } from './iteminformation/iteminformation.component';
-import { IteminformationlistComponent } from './iteminformation/iteminformationlist.component';
-import { DepartmentComponent } from './department/department.component';
-import { DepartmentlistComponent } from './department/departmentlist.component';
-import { StockanalysisComponent } from './stockanalysis/stockanalysis.component';
-import { StockanalysislistComponent } from './stockanalysis/stockanalysislist.component';
-import { CustomerComponent } from './customer/customer.component';
-import { CustomerlistComponent } from './customer/customerlist.component';
+
+
 import { AbcComponent } from './abc/abc.component';
 import { AbclistComponent } from './abc/abclist.component';
 
@@ -57,6 +51,8 @@ import { FollowupComponent } from './followup/followup.component';
 import { FollowuplistComponent } from './followup/followuplist.component';
 import { ClientComponent } from './client/client.component';
 import { ClientlistComponent } from './client/clientlist.component';
+import { XyzComponent } from './xyz/xyz.component';
+import { XyzlistComponent } from './xyz/xyzlist.component';
 
 
 
@@ -77,19 +73,12 @@ const routes: Routes = [
     }
     ,
 
-    
-    
-
-
     {
         path: 'login/:userparams',
         component: LoginComponent
     },
    
-    {
-        path: 'spinner',
-        component: SpinnerComponent
-    },
+   
     {
         path: 'forgotpassword',
         component: ForgotPasswordComponent
@@ -283,66 +272,7 @@ const routes: Routes = [
         path: 'asset/:id',
         component: AssetComponent
       },
-    
-      {
-        path: 'iteminformation',
-        component : IteminformationComponent
-      
-    },
     {
-        path : 'iteminformationlist',
-        component : IteminformationlistComponent
-      
-    },
-    {
-        path: 'iteminformation/:id',
-        component: IteminformationComponent
-      
-    },
-    {
-        path: 'department',
-        component : DepartmentComponent
-      
-    },
-    {
-        path : 'departmentlist',
-        component : DepartmentlistComponent
-      
-    },
-    {
-        path: 'department/:id',
-        component: DepartmentComponent
-      
-    },
-    {
-        path: 'stockanalysis',
-        component : StockanalysisComponent
-      
-    },
-    {
-        path : 'stockanalysislist',
-        component : StockanalysislistComponent
-      
-    },
-    {
-        path: 'stockanalysis/:id',
-        component: StockanalysisComponent
-      
-    }, {
-        path: 'customer',
-        component : CustomerComponent
-      
-    },
-    {
-        path : 'customerlist',
-        component : CustomerlistComponent
-      
-    },
-    {
-        path: 'customer/:id',
-        component: CustomerComponent
-      
-    },{
         path: 'abc',
         component : AbcComponent
       
@@ -411,6 +341,21 @@ const routes: Routes = [
     {
         path: 'client/:id',
         component: ClientComponent
+      
+    },
+    {
+        path: 'xyz',
+        component: XyzComponent
+      
+    },
+    {
+        path: 'xyz/:id',
+        component: XyzComponent
+      
+    },
+    {
+        path: 'xyzlist',
+        component: XyzlistComponent
       
     }
       

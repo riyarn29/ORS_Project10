@@ -32,6 +32,7 @@ export class EndpointServiceService {
   public REGION = this.SERVER_URL + "/Region";
   public FOLLOWUP = this.SERVER_URL + "/FollowUp";
   public CLIENT = this.SERVER_URL + "/Client";
+  public XYZ = this.SERVER_URL + "/Xyz";
 
 
 

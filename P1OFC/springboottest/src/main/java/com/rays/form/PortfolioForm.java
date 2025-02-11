@@ -11,7 +11,6 @@ import javax.validation.constraints.Pattern;
 
 import com.rays.common.BaseDTO;
 import com.rays.common.BaseForm;
-import com.rays.dto.CustomerDTO;
 import com.rays.dto.PortfolioDTO;
 
 public class PortfolioForm extends BaseForm {

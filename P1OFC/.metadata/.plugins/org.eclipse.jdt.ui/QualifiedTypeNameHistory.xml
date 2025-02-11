@@ -3,10 +3,6 @@
     <fullyQualifiedTypeName name="com.rays.common.BaseForm"/>
     <fullyQualifiedTypeName name="com.rays.dto.ABCDTO"/>
     <fullyQualifiedTypeName name="com.rays.dao.AbcDAOInt"/>
-    <fullyQualifiedTypeName name="com.rays.dao.XyzDAOInt"/>
-    <fullyQualifiedTypeName name="com.rays.form.XyzForm"/>
-    <fullyQualifiedTypeName name="com.rays.dto.XyzDTO"/>
-    <fullyQualifiedTypeName name="com.rays.service.XyzServiceInt"/>
     <fullyQualifiedTypeName name="com.rays.dao.RiyaDAOInt"/>
     <fullyQualifiedTypeName name="com.rays.form.RiyaForm"/>
     <fullyQualifiedTypeName name="com.rays.dto.RiyaDTO"/>
@@ -38,4 +34,9 @@
     <fullyQualifiedTypeName name="com.rays.form.ClientForm"/>
     <fullyQualifiedTypeName name="com.rays.dto.ClientDTO"/>
     <fullyQualifiedTypeName name="com.rays.service.ClientServiceInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.XyzDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.XyzDAOImpl"/>
+    <fullyQualifiedTypeName name="com.rays.form.XyzForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.XyzDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.XyzServiceInt"/>
 </qualifiedTypeNameHistroy>

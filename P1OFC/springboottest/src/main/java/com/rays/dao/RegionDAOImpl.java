@@ -10,8 +10,6 @@ import javax.persistence.criteria.Root;
 import org.springframework.stereotype.Repository;
 
 import com.rays.common.BaseDAOImpl;
-import com.rays.dto.CustomerDTO;
-import com.rays.dto.PortfolioDTO;
 import com.rays.dto.RegionDTO;
 
 @Repository
