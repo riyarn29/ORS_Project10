@@ -53,6 +53,8 @@ import { ClientComponent } from './client/client.component';
 import { ClientlistComponent } from './client/clientlist.component';
 import { XyzComponent } from './xyz/xyz.component';
 import { XyzlistComponent } from './xyz/xyzlist.component';
+import { CartoverviewComponent } from './cartoverview/cartoverview.component';
+import { CartoverviewlistComponent } from './cartoverview/cartoverviewlist.component';
 
 
 
@@ -356,6 +358,21 @@ const routes: Routes = [
     {
         path: 'xyzlist',
         component: XyzlistComponent
+      
+    },
+    {
+        path: 'cartoverview',
+        component: CartoverviewComponent
+      
+    },
+    {
+        path: 'cartoverview/:id',
+        component: CartoverviewComponent
+      
+    },
+    {
+        path: 'cartoverviewlist',
+        component: CartoverviewlistComponent
       
     }
       

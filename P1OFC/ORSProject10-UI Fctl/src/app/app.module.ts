@@ -72,6 +72,8 @@ import { ClientComponent } from './client/client.component';
 import { ClientlistComponent } from './client/clientlist.component';
 import { XyzComponent } from './xyz/xyz.component';
 import { XyzlistComponent } from './xyz/xyzlist.component';
+import { CartoverviewComponent } from './cartoverview/cartoverview.component';
+import { CartoverviewlistComponent } from './cartoverview/cartoverviewlist.component';
 
 
 
@@ -143,6 +145,8 @@ export function myHttpLoader(http: HttpClient) {
     ClientlistComponent,
     XyzComponent,
     XyzlistComponent,
+    CartoverviewComponent,
+    CartoverviewlistComponent,
     
     
 

@@ -33,6 +33,8 @@ export class EndpointServiceService {
   public FOLLOWUP = this.SERVER_URL + "/FollowUp";
   public CLIENT = this.SERVER_URL + "/Client";
   public XYZ = this.SERVER_URL + "/Xyz";
+  public CART = this.SERVER_URL + "/Cart";
+
 
 
 
